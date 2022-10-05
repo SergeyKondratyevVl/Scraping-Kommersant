@@ -1,0 +1,1180 @@
+[
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269639,
+        "Title": "FT: ЕС усиленно готовится к «ядерному инциденту»",
+        "DateDoc": "20-03-2022 16-16",
+        "URL": "https://www.kommersant.ru/doc/5269639",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269643,
+        "Title": "ЦСКА обыграл «Рубин» со счетом 6:1",
+        "DateDoc": "20-03-2022 15-59",
+        "URL": "https://www.kommersant.ru/doc/5269643",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269635,
+        "Title": "Франция заморозила активы российского ЦБ на €22 млрд",
+        "DateDoc": "20-03-2022 15-50",
+        "URL": "https://www.kommersant.ru/doc/5269635",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269621,
+        "Title": "Власти Крыма сообщили об 11 тыс. беженцев из Украины",
+        "DateDoc": "20-03-2022 15-37",
+        "URL": "https://www.kommersant.ru/doc/5269621",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Александр Дремлюгин",
+                "Url": "https://www.kommersant.ru/authors/907",
+                "Type": 5,
+                "Id": 907
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269628,
+        "Title": "Словакия начала развертывать системы ПВО Patriot вместо С-300, которые передаст Украине",
+        "DateDoc": "20-03-2022 15-19",
+        "URL": "https://www.kommersant.ru/doc/5269628",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269611,
+        "Title": "«Уральские авиалинии» отправят часть пилотов и бортпроводников в простой",
+        "DateDoc": "20-03-2022 15-12",
+        "URL": "https://www.kommersant.ru/doc/5269611",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269615,
+        "Title": "Литва не будет платить компенсации за национализированные в России предприятия",
+        "DateDoc": "20-03-2022 15-01",
+        "URL": "https://www.kommersant.ru/doc/5269615",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269609,
+        "Title": "В Казахстане опровергли слухи об отправке военной техники на Украину",
+        "DateDoc": "20-03-2022 14-52",
+        "URL": "https://www.kommersant.ru/doc/5269609",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269610,
+        "Title": "Нижегородские власти рекомендовали торговым сетям ограничить продажу сахара",
+        "DateDoc": "20-03-2022 14-39",
+        "URL": "https://www.kommersant.ru/doc/5269610",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269624,
+        "Title": "VK отрицает продажу рекламы британскому правительству",
+        "DateDoc": "20-03-2022 14-36",
+        "URL": "https://www.kommersant.ru/doc/5269624",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269619,
+        "Title": "ЛДПР отрицает ухудшение состояния здоровья Жириновского",
+        "DateDoc": "20-03-2022 14-19",
+        "URL": "https://www.kommersant.ru/doc/5269619",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Деятельность ЛДПР и Владимира Жириновского",
+                "Url": "https://www.kommersant.ru/theme/1902",
+                "Type": 2,
+                "Id": 1902
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269605,
+        "Title": "В Оренбуржье три человека умерли из-за отравления контрафактным спиртом",
+        "DateDoc": "20-03-2022 14-10",
+        "URL": "https://www.kommersant.ru/doc/5269605",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269616,
+        "Title": "Рыболовлев может сменить менеджмент и тренера «Монако»",
+        "DateDoc": "20-03-2022 13-59",
+        "URL": "https://www.kommersant.ru/doc/5269616",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269603,
+        "Title": "Хуситы атаковали объекты Saudi Aramco крылатыми ракетами",
+        "DateDoc": "20-03-2022 13-40",
+        "URL": "https://www.kommersant.ru/doc/5269603",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Все о Ближнем Востоке",
+                "Url": "https://www.kommersant.ru/theme/3174",
+                "Type": 2,
+                "Id": 3174
+            },
+            {
+                "Name": "Кризис на Ближнем Востоке",
+                "Url": "https://www.kommersant.ru/theme/1356",
+                "Type": 2,
+                "Id": 1356
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269593,
+        "Title": "Талибы обязали госучреждения использовать их флаг вместо прежнего флага Афганистана",
+        "DateDoc": "20-03-2022 13-29",
+        "URL": "https://www.kommersant.ru/doc/5269593",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269598,
+        "Title": "Партия Медведчука оспорит запрет деятельности на Украине",
+        "DateDoc": "20-03-2022 13-16",
+        "URL": "https://www.kommersant.ru/doc/5269598",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269601,
+        "Title": "Правительство упростило доступ к социальным контрактам",
+        "DateDoc": "20-03-2022 12-51",
+        "URL": "https://www.kommersant.ru/doc/5269601",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269590,
+        "Title": "Авен, Фридман и Хан покинули совет директоров благотворительной организации Genesis Group",
+        "DateDoc": "20-03-2022 12-39",
+        "URL": "https://www.kommersant.ru/doc/5269590",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Военная операция на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269583,
+        "Title": "Военная операция на Украине осложнила торговлю между Россией и Китаем",
+        "DateDoc": "20-03-2022 12-22",
+        "URL": "https://www.kommersant.ru/doc/5269583",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5269586,
+        "Title": "Регионы смогут тратить средства от реструктуризации кредитов на инфраструктурные проекты",
+        "DateDoc": "20-03-2022 12-03",
+        "URL": "https://www.kommersant.ru/doc/5269586",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583574,
+        "Title": "РБК: россияне тратят в «Вкусно — и точка» больше, чем в KFC",
+        "DateDoc": "29-09-2022 12-17",
+        "URL": "https://www.kommersant.ru/doc/5583574",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583579,
+        "Title": "Каховка и Новая Каховка остались без газа после обстрелов",
+        "DateDoc": "29-09-2022 12-12",
+        "URL": "https://www.kommersant.ru/doc/5583579",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583575,
+        "Title": "Депутаты Госдумы получили приглашения на 30 сентября в Кремль",
+        "DateDoc": "29-09-2022 12-00",
+        "URL": "https://www.kommersant.ru/doc/5583575",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583572,
+        "Title": "Минобороны разъяснило Володину правило выезда за границу военнообязанных",
+        "DateDoc": "29-09-2022 11-57",
+        "URL": "https://www.kommersant.ru/doc/5583572",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583568,
+        "Title": "Бывший заместитель главреда «Эха Москвы» сообщил о запуске проекта «Эхо»",
+        "DateDoc": "29-09-2022 11-54",
+        "URL": "https://www.kommersant.ru/doc/5583568",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583548,
+        "Title": "Вице-премьер Испании назвала повреждения на «Северных потоках» провокациями России",
+        "DateDoc": "29-09-2022 11-42",
+        "URL": "https://www.kommersant.ru/doc/5583548",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583553,
+        "Title": "Турецкий Ziraat bank подтвердил приостановку использования карт «Мир»",
+        "DateDoc": "29-09-2022 11-37",
+        "URL": "https://www.kommersant.ru/doc/5583553",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583543,
+        "Title": "H&M потратил $184 млн на уход из России",
+        "DateDoc": "29-09-2022 11-31",
+        "URL": "https://www.kommersant.ru/doc/5583543",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Рынок ритейла",
+                "Url": "https://www.kommersant.ru/theme/1079",
+                "Type": 2,
+                "Id": 1079
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583520,
+        "Title": "Суд в Хабаровске приговорил к реальным срокам членов ОПГ за махинации на 239 млн рублей",
+        "DateDoc": "29-09-2022 11-25",
+        "URL": "https://www.kommersant.ru/doc/5583520",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583538,
+        "Title": "Студентам-очникам рекомендовали взять справку в вузе на случай выезда за границу",
+        "DateDoc": "29-09-2022 11-17",
+        "URL": "https://www.kommersant.ru/doc/5583538",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583524,
+        "Title": "«Известия»: Турция предлагает создать отдельный банк для обслуживания карт «Мир»",
+        "DateDoc": "29-09-2022 11-08",
+        "URL": "https://www.kommersant.ru/doc/5583524",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583521,
+        "Title": "На границе с Казахстаном в Астраханской области развернут пункт мобилизации",
+        "DateDoc": "29-09-2022 10-47",
+        "URL": "https://www.kommersant.ru/doc/5583521",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583515,
+        "Title": "Губернатор провинции Тегеран заявил об окончании протестов",
+        "DateDoc": "29-09-2022 10-43",
+        "URL": "https://www.kommersant.ru/doc/5583515",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583511,
+        "Title": "Минцифры попросило руководство IT-компаний сохранить 80% выплат мобилизованным сотрудникам",
+        "DateDoc": "29-09-2022 10-40",
+        "URL": "https://www.kommersant.ru/doc/5583511",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583502,
+        "Title": "Helsingin Sanomat: Финляндия ограничит въезд россиян с 30 сентября",
+        "DateDoc": "29-09-2022 10-30",
+        "URL": "https://www.kommersant.ru/doc/5583502",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583483,
+        "Title": "EUobserver: ЕС может запретить импорт российской икры, водки и сигарет",
+        "DateDoc": "29-09-2022 10-12",
+        "URL": "https://www.kommersant.ru/doc/5583483",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583486,
+        "Title": "Стремоусов: главы ДНР, ЛНР, Запорожья и Херсонщины встретятся с Путиным",
+        "DateDoc": "29-09-2022 10-11",
+        "URL": "https://www.kommersant.ru/doc/5583486",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583484,
+        "Title": "МИД РФ: взрывы на «Северных потоках» произошли в зоне контроля американской разведки",
+        "DateDoc": "29-09-2022 10-00",
+        "URL": "https://www.kommersant.ru/doc/5583484",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583477,
+        "Title": "Володин: россиянам на воинском учете при мобилизации запрещен выезд с места жительства",
+        "DateDoc": "29-09-2022 09-51",
+        "URL": "https://www.kommersant.ru/doc/5583477",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            }
+        ]
+    },
+    {
+        "MainTagType": 4,
+        "MainTagId": 86,
+        "MainTagTitle": "Лента новостей",
+        "DocsId": 5583460,
+        "Title": "На границе России и Казахстана может появиться зеленый коридор для казахстанцев и грузовиков",
+        "DateDoc": "29-09-2022 09-37",
+        "URL": "https://www.kommersant.ru/doc/5583460",
+        "Tags": [
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            }
+        ]
+    }
+]

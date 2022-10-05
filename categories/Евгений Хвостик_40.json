@@ -1,0 +1,1372 @@
+[
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5583359,
+        "Title": "Россия оказалась во власти бренда",
+        "DateDoc": "29-09-2022 10-01",
+        "URL": "https://www.kommersant.ru/doc/5583359",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Россия в мировых рейтингах",
+                "Url": "https://www.kommersant.ru/theme/399",
+                "Type": 2,
+                "Id": 399
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5583120,
+        "Title": "В Конгрессе предложили запретить федеральным чиновникам США владеть и торговать акциями",
+        "DateDoc": "28-09-2022 16-08",
+        "URL": "https://www.kommersant.ru/doc/5583120",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5583117,
+        "Title": "Объемы торговли NFT упали на 97%",
+        "DateDoc": "28-09-2022 15-57",
+        "URL": "https://www.kommersant.ru/doc/5583117",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5582583,
+        "Title": "Goldman Sachs ждет от ЕЦБ повышения учетной ставки еще на 0,75%",
+        "DateDoc": "27-09-2022 20-02",
+        "URL": "https://www.kommersant.ru/doc/5582583",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5582566,
+        "Title": "Регулятор США оштрафовал Oracle на $23 млн за взятки иностранным чиновникам",
+        "DateDoc": "27-09-2022 18-47",
+        "URL": "https://www.kommersant.ru/doc/5582566",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5581894,
+        "Title": "Дания разливается в проливах",
+        "DateDoc": "26-09-2022 16-56",
+        "URL": "https://www.kommersant.ru/doc/5581894",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Все о Европе",
+                "Url": "https://www.kommersant.ru/theme/3172",
+                "Type": 2,
+                "Id": 3172
+            },
+            {
+                "Name": "Дания и ее отношения с миром",
+                "Url": "https://www.kommersant.ru/theme/2547",
+                "Type": 2,
+                "Id": 2547
+            },
+            {
+                "Name": "Нефть. Добыча и переработка",
+                "Url": "https://www.kommersant.ru/theme/555",
+                "Type": 2,
+                "Id": 555
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Судостроение и судоходство",
+                "Url": "https://www.kommersant.ru/theme/1800",
+                "Type": 2,
+                "Id": 1800
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5572250,
+        "Title": "VPN Proton выводит из Индии серверы из-за нового закона о персональных данных",
+        "DateDoc": "22-09-2022 14-27",
+        "URL": "https://www.kommersant.ru/doc/5572250",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5572164,
+        "Title": "Британский регулятор проверит облачный бизнес Amazon, Microsoft и Google на монополизм",
+        "DateDoc": "22-09-2022 12-43",
+        "URL": "https://www.kommersant.ru/doc/5572164",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5571897,
+        "Title": "В вольфрамках санкций",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571897",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5571559,
+        "Title": "Страны Азии обгонят Китай по росту ВВП",
+        "DateDoc": "21-09-2022 12-48",
+        "URL": "https://www.kommersant.ru/doc/5571559",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5571248,
+        "Title": "Boeing спрогнозировала бум воздушных перевозок и авиатуризма в странах Ближнего Востока",
+        "DateDoc": "20-09-2022 20-16",
+        "URL": "https://www.kommersant.ru/doc/5571248",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5571215,
+        "Title": "Производитель кондиционеров Daikin откажется от китайских комплектующих в 2024 году",
+        "DateDoc": "20-09-2022 19-35",
+        "URL": "https://www.kommersant.ru/doc/5571215",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5571144,
+        "Title": "Россия догоняет Америку столетней давности",
+        "DateDoc": "20-09-2022 17-40",
+        "URL": "https://www.kommersant.ru/doc/5571144",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Россия в мировых рейтингах",
+                "Url": "https://www.kommersant.ru/theme/399",
+                "Type": 2,
+                "Id": 399
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5570486,
+        "Title": "Экологи выступили против присвоения «зеленого» статуса атомной и газовой электрогенерации в ЕС",
+        "DateDoc": "19-09-2022 14-52",
+        "URL": "https://www.kommersant.ru/doc/5570486",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5570468,
+        "Title": "FT: нехватка долларов угрожает экономике Нигерии",
+        "DateDoc": "19-09-2022 14-31",
+        "URL": "https://www.kommersant.ru/doc/5570468",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5570366,
+        "Title": "ЦБ КНР наращивает валютные интервенции для поддержания ликвидности на рынке",
+        "DateDoc": "19-09-2022 12-37",
+        "URL": "https://www.kommersant.ru/doc/5570366",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5570343,
+        "Title": "Porsche планирует привлечь на IPO €9,4 млрд при общей оценке компании в €70–75 млрд",
+        "DateDoc": "19-09-2022 11-51",
+        "URL": "https://www.kommersant.ru/doc/5570343",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5569380,
+        "Title": "Деменция ближе, чем кажется",
+        "DateDoc": "17-09-2022 13-06",
+        "URL": "https://www.kommersant.ru/doc/5569380",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5561130,
+        "Title": "Uber подвергся хакерской атаке",
+        "DateDoc": "16-09-2022 12-47",
+        "URL": "https://www.kommersant.ru/doc/5561130",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5561112,
+        "Title": "В Испании задержан глава одной из крупнейших группировок по отмыванию денег",
+        "DateDoc": "16-09-2022 11-49",
+        "URL": "https://www.kommersant.ru/doc/5561112",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5560648,
+        "Title": "Reuters: Tesla хочет пересмотреть свою стратегию в Китае",
+        "DateDoc": "15-09-2022 15-18",
+        "URL": "https://www.kommersant.ru/doc/5560648",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5560625,
+        "Title": "Квартальные результаты H&M оказались хуже прогнозов",
+        "DateDoc": "15-09-2022 14-45",
+        "URL": "https://www.kommersant.ru/doc/5560625",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5560467,
+        "Title": "Власти Калифорнии подали в суд на Amazon за монополизм",
+        "DateDoc": "15-09-2022 12-16",
+        "URL": "https://www.kommersant.ru/doc/5560467",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Бизнес Amazon",
+                "Url": "https://www.kommersant.ru/theme/3158",
+                "Type": 2,
+                "Id": 3158
+            },
+            {
+                "Name": "Интернет-бизнес",
+                "Url": "https://www.kommersant.ru/theme/374",
+                "Type": 2,
+                "Id": 374
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5559907,
+        "Title": "Обличитель Twitter не уложился в 140 знаков",
+        "DateDoc": "14-09-2022 15-08",
+        "URL": "https://www.kommersant.ru/doc/5559907",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Функционирование мессенджеров и соцсетей",
+                "Url": "https://www.kommersant.ru/theme/2920",
+                "Type": 2,
+                "Id": 2920
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5559782,
+        "Title": "Фондовые индексы США пережили рекордное падение с июня 2020 года",
+        "DateDoc": "14-09-2022 11-37",
+        "URL": "https://www.kommersant.ru/doc/5559782",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5559484,
+        "Title": "General Motors запускает беспилотные такси в Аризоне и Техасе",
+        "DateDoc": "13-09-2022 20-28",
+        "URL": "https://www.kommersant.ru/doc/5559484",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5559465,
+        "Title": "Инфляция в США замедлила рост, но остается выше прогнозов",
+        "DateDoc": "13-09-2022 19-23",
+        "URL": "https://www.kommersant.ru/doc/5559465",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5559363,
+        "Title": "Henley & Partners: больше всего миллионеров проживает в Нью-Йорке, Токио и Сан-Франциско",
+        "DateDoc": "13-09-2022 16-14",
+        "URL": "https://www.kommersant.ru/doc/5559363",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5558855,
+        "Title": "Nikkei: в Японии число пустующих жилых домов в 2023 году достигнет 10 млн",
+        "DateDoc": "12-09-2022 21-14",
+        "URL": "https://www.kommersant.ru/doc/5558855",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5558824,
+        "Title": "«Аль-Каида» выпустила книгу о терактах 11 сентября",
+        "DateDoc": "12-09-2022 19-56",
+        "URL": "https://www.kommersant.ru/doc/5558824",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5557400,
+        "Title": "«Никто не знает, сколько без нее протянет идея Соединенного Королевства»",
+        "DateDoc": "09-09-2022 16-20",
+        "URL": "https://www.kommersant.ru/doc/5557400",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Великобритания. Ситуация в стране",
+                "Url": "https://www.kommersant.ru/theme/557",
+                "Type": 2,
+                "Id": 557
+            },
+            {
+                "Name": "Смерть Елизаветы II",
+                "Url": "https://www.kommersant.ru/theme/3445",
+                "Type": 2,
+                "Id": 3445
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Николай Зубов",
+                "Url": "https://www.kommersant.ru/authors/329",
+                "Type": 5,
+                "Id": 329
+            },
+            {
+                "Name": "Яна Рождественская",
+                "Url": "https://www.kommersant.ru/authors/577",
+                "Type": 5,
+                "Id": 577
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5549732,
+        "Title": "Twitter выплатит бывшему главе службы безопасности $7 млн компенсации",
+        "DateDoc": "09-09-2022 11-42",
+        "URL": "https://www.kommersant.ru/doc/5549732",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5549140,
+        "Title": "Новые истцы обвинили Илона Маска в создании криптопирамиды с Dogecoin",
+        "DateDoc": "08-09-2022 15-03",
+        "URL": "https://www.kommersant.ru/doc/5549140",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5549021,
+        "Title": "Инвестбанкиры и аналитики ждут от ФРС нового повышения ставки на 0,75%",
+        "DateDoc": "08-09-2022 11-38",
+        "URL": "https://www.kommersant.ru/doc/5549021",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548569,
+        "Title": "Капитализация рынка криптовалют опустилась ниже $1 трлн",
+        "DateDoc": "07-09-2022 15-38",
+        "URL": "https://www.kommersant.ru/doc/5548569",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548517,
+        "Title": "Nikkei: Танкеры с российской нефтью идут в Европу через Грецию",
+        "DateDoc": "07-09-2022 14-40",
+        "URL": "https://www.kommersant.ru/doc/5548517",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548436,
+        "Title": "Microsoft инвестировала в новый стартап сооснователя Uber",
+        "DateDoc": "07-09-2022 13-07",
+        "URL": "https://www.kommersant.ru/doc/5548436",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548403,
+        "Title": "FT: ЕС может ввести налог на сверхприбыли энергокорпораций для компенсации расходов на энергию",
+        "DateDoc": "07-09-2022 12-53",
+        "URL": "https://www.kommersant.ru/doc/5548403",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548037,
+        "Title": "Италия сократит потребление газа на 7%",
+        "DateDoc": "06-09-2022 20-02",
+        "URL": "https://www.kommersant.ru/doc/5548037",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 330,
+        "MainTagTitle": "Евгений Хвостик",
+        "DocsId": 5548031,
+        "Title": "Ведущая аптечная сеть США CVS покупает за $8 млрд оператора медицинских услуг Signify Health",
+        "DateDoc": "06-09-2022 19-36",
+        "URL": "https://www.kommersant.ru/doc/5548031",
+        "Tags": [
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    }
+]

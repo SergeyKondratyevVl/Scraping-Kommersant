@@ -1,0 +1,1330 @@
+[
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583572,
+        "Title": "Минобороны разъяснило Володину правило выезда за границу военнообязанных",
+        "DateDoc": "29-09-2022 11-57",
+        "URL": "https://www.kommersant.ru/doc/5583572",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583568,
+        "Title": "Бывший заместитель главреда «Эха Москвы» сообщил о запуске проекта «Эхо»",
+        "DateDoc": "29-09-2022 11-54",
+        "URL": "https://www.kommersant.ru/doc/5583568",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583538,
+        "Title": "Студентам-очникам рекомендовали взять справку в вузе на случай выезда за границу",
+        "DateDoc": "29-09-2022 11-17",
+        "URL": "https://www.kommersant.ru/doc/5583538",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583521,
+        "Title": "На границе с Казахстаном в Астраханской области развернут пункт мобилизации",
+        "DateDoc": "29-09-2022 10-47",
+        "URL": "https://www.kommersant.ru/doc/5583521",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583477,
+        "Title": "Володин: россиянам на воинском учете при мобилизации запрещен выезд с места жительства",
+        "DateDoc": "29-09-2022 09-51",
+        "URL": "https://www.kommersant.ru/doc/5583477",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583401,
+        "Title": "SuperJob: четверть россиян получают звонки от мошенников несколько раз в неделю",
+        "DateDoc": "29-09-2022 05-49",
+        "URL": "https://www.kommersant.ru/doc/5583401",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Олеся Павленко",
+                "Url": "https://www.kommersant.ru/authors/973",
+                "Type": 5,
+                "Id": 973
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583386,
+        "Title": "В России вырос спрос на генеральные доверенности на фоне мобилизации",
+        "DateDoc": "29-09-2022 01-18",
+        "URL": "https://www.kommersant.ru/doc/5583386",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Олеся Павленко",
+                "Url": "https://www.kommersant.ru/authors/973",
+                "Type": 5,
+                "Id": 973
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583345,
+        "Title": "Москва прирастет «Балтией»",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583345",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Функционирование дорог и платных трасс",
+                "Url": "https://www.kommersant.ru/theme/1852",
+                "Type": 2,
+                "Id": 1852
+            },
+            {
+                "Name": "Александра Мерцалова",
+                "Url": "https://www.kommersant.ru/authors/652",
+                "Type": 5,
+                "Id": 652
+            },
+            {
+                "Name": "Иван Буранов",
+                "Url": "https://www.kommersant.ru/authors/142",
+                "Type": 5,
+                "Id": 142
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583344,
+        "Title": "Наблюдатели выбрались в комиссии",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583344",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность правозащитников",
+                "Url": "https://www.kommersant.ru/theme/890",
+                "Type": 2,
+                "Id": 890
+            },
+            {
+                "Name": "Содержание заключенных",
+                "Url": "https://www.kommersant.ru/theme/1226",
+                "Type": 2,
+                "Id": 1226
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583343,
+        "Title": "Замглавврача судят за перебои с кислородом",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583343",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Пандемия коронавируса",
+                "Url": "https://www.kommersant.ru/theme/3304",
+                "Type": 2,
+                "Id": 3304
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583362,
+        "Title": "Главные анонсы 29 сентября",
+        "DateDoc": "29-09-2022 00-06",
+        "URL": "https://www.kommersant.ru/doc/5583362",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583321,
+        "Title": "Суд в Москве арестовал активиста Артема Камардина за чтение антивоенного стихотворения",
+        "DateDoc": "28-09-2022 23-51",
+        "URL": "https://www.kommersant.ru/doc/5583321",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583233,
+        "Title": "Каляпин и Литвинович не попали в ОНК",
+        "DateDoc": "28-09-2022 21-57",
+        "URL": "https://www.kommersant.ru/doc/5583233",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583309,
+        "Title": "В Москве 30 сентября перекроют для машин центральные улицы и набережные",
+        "DateDoc": "28-09-2022 21-48",
+        "URL": "https://www.kommersant.ru/doc/5583309",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583303,
+        "Title": "Минобороны открыло горячую линию для родственников мобилизованных",
+        "DateDoc": "28-09-2022 21-08",
+        "URL": "https://www.kommersant.ru/doc/5583303",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583286,
+        "Title": "На ведущей из Астрахани в Казахстан трассе ограничат движение",
+        "DateDoc": "28-09-2022 21-07",
+        "URL": "https://www.kommersant.ru/doc/5583286",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582916,
+        "Title": "«Я пока не осознаю, что вот он уйдет и вдруг не вернется»",
+        "DateDoc": "28-09-2022 20-02",
+        "URL": "https://www.kommersant.ru/doc/5582916",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Призыв на военную службу",
+                "Url": "https://www.kommersant.ru/theme/341",
+                "Type": 2,
+                "Id": 341
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Видео",
+                "Url": "https://www.kommersant.ru/specials/video",
+                "Type": 1,
+                "Id": 110
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583254,
+        "Title": "Рогозин назвал ложью информацию об отказе возглавить будущий Крымский федеральный округ",
+        "DateDoc": "28-09-2022 19-52",
+        "URL": "https://www.kommersant.ru/doc/5583254",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583242,
+        "Title": "В Госдуму внесли законопроект об отсрочке от мобилизации для многодетных отцов",
+        "DateDoc": "28-09-2022 19-14",
+        "URL": "https://www.kommersant.ru/doc/5583242",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583232,
+        "Title": "Адыгея выполнила план по частичной мобилизации",
+        "DateDoc": "28-09-2022 19-00",
+        "URL": "https://www.kommersant.ru/doc/5583232",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583218,
+        "Title": "На погранпункте на границе с Финляндией установили мобильный призывной пункт",
+        "DateDoc": "28-09-2022 18-40",
+        "URL": "https://www.kommersant.ru/doc/5583218",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583217,
+        "Title": "«Она не успела закрыть дверь»",
+        "DateDoc": "28-09-2022 18-37",
+        "URL": "https://www.kommersant.ru/doc/5583217",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Нападения на школы",
+                "Url": "https://www.kommersant.ru/theme/2985",
+                "Type": 2,
+                "Id": 2985
+            },
+            {
+                "Name": "Некрологи",
+                "Url": "https://www.kommersant.ru/theme/782",
+                "Type": 2,
+                "Id": 782
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583228,
+        "Title": "В Самаре суд взыскал с организаторов митингов за освобождение Навального более 400 тысяч рублей",
+        "DateDoc": "28-09-2022 18-35",
+        "URL": "https://www.kommersant.ru/doc/5583228",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583221,
+        "Title": "В Алтайском крае домой вернулись более 60 мобилизованных жителей региона",
+        "DateDoc": "28-09-2022 18-24",
+        "URL": "https://www.kommersant.ru/doc/5583221",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583203,
+        "Title": "Двум неслужившим фигуристам пришли повестки в военкомат",
+        "DateDoc": "28-09-2022 18-00",
+        "URL": "https://www.kommersant.ru/doc/5583203",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583182,
+        "Title": "Бывший футболист сборной России Динияр Билялетдинов получил повестку в 37 лет",
+        "DateDoc": "28-09-2022 17-48",
+        "URL": "https://www.kommersant.ru/doc/5583182",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583192,
+        "Title": "Студентов всех вузов освободят от частичной мобилизации",
+        "DateDoc": "28-09-2022 17-29",
+        "URL": "https://www.kommersant.ru/doc/5583192",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583179,
+        "Title": "Правительство Удмуртии выплатит по миллиону рублей семьям погибших при стрельбе в школе",
+        "DateDoc": "28-09-2022 17-21",
+        "URL": "https://www.kommersant.ru/doc/5583179",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Нападения на школы",
+                "Url": "https://www.kommersant.ru/theme/2985",
+                "Type": 2,
+                "Id": 2985
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583130,
+        "Title": "Коллектив Уралвагонзавода предложил создать добровольческое воинское формирование",
+        "DateDoc": "28-09-2022 16-41",
+        "URL": "https://www.kommersant.ru/doc/5583130",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583151,
+        "Title": "Госдума приняла закон о кредитных каникулах для мобилизованных граждан",
+        "DateDoc": "28-09-2022 16-26",
+        "URL": "https://www.kommersant.ru/doc/5583151",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583139,
+        "Title": "ФССП приостановила взыскание долгов с мобилизованных граждан",
+        "DateDoc": "28-09-2022 16-13",
+        "URL": "https://www.kommersant.ru/doc/5583139",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583116,
+        "Title": "Военкоматы Москвы разослали уведомления об отзыве выданных по ошибке повесток",
+        "DateDoc": "28-09-2022 15-36",
+        "URL": "https://www.kommersant.ru/doc/5583116",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5583092,
+        "Title": "Кредитные каникулы для мобилизованных распространят на добровольцев",
+        "DateDoc": "28-09-2022 15-17",
+        "URL": "https://www.kommersant.ru/doc/5583092",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582961,
+        "Title": "Владимирский губернатор потребовал от коллег не пиариться на мобилизации",
+        "DateDoc": "28-09-2022 14-43",
+        "URL": "https://www.kommersant.ru/doc/5582961",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582964,
+        "Title": "Володин предложил передавать брошенные машины уклонистов семьям мобилизованных",
+        "DateDoc": "28-09-2022 13-48",
+        "URL": "https://www.kommersant.ru/doc/5582964",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582991,
+        "Title": "Швейцарские ледники потеряли в этом году рекордные 6% объема",
+        "DateDoc": "28-09-2022 13-48",
+        "URL": "https://www.kommersant.ru/doc/5582991",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582982,
+        "Title": "Посольство США рекомендовало американцам немедленно покинуть Россию",
+        "DateDoc": "28-09-2022 13-17",
+        "URL": "https://www.kommersant.ru/doc/5582982",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582973,
+        "Title": "Уволившиеся в запас граждане будут мобилизованы в приоритетном порядке",
+        "DateDoc": "28-09-2022 13-08",
+        "URL": "https://www.kommersant.ru/doc/5582973",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582923,
+        "Title": "В Крыму принимают закон о выдаче земли участникам военной операции на Украине",
+        "DateDoc": "28-09-2022 13-03",
+        "URL": "https://www.kommersant.ru/doc/5582923",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Ситуация в Крыму",
+                "Url": "https://www.kommersant.ru/theme/2018",
+                "Type": 2,
+                "Id": 2018
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Александр Дремлюгин",
+                "Url": "https://www.kommersant.ru/authors/907",
+                "Type": 5,
+                "Id": 907
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 7,
+        "MainTagTitle": "Общество",
+        "DocsId": 5582895,
+        "Title": "В Новосибирской области полиция подключилась к поиску призывников для выдачи повесток",
+        "DateDoc": "28-09-2022 12-19",
+        "URL": "https://www.kommersant.ru/doc/5582895",
+        "Tags": [
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    }
+]

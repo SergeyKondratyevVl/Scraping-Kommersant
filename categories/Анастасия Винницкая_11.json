@@ -1,0 +1,567 @@
+[
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5570011,
+        "Title": "Кому на Руси ДЭГ хорошо",
+        "DateDoc": "19-09-2022 01-08",
+        "URL": "https://www.kommersant.ru/doc/5570011",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Единый день голосования–2022",
+                "Url": "https://www.kommersant.ru/theme/3427",
+                "Type": 2,
+                "Id": 3427
+            },
+            {
+                "Name": "Елена Рожкова",
+                "Url": "https://www.kommersant.ru/authors/896",
+                "Type": 5,
+                "Id": 896
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №172/П от 19.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139285",
+                "Type": 6,
+                "Id": 139285
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5549235,
+        "Title": "Под знаком копирайта",
+        "DateDoc": "11-09-2022 14-18",
+        "URL": "https://www.kommersant.ru/doc/5549235",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5549293,
+        "Title": "Стоп, камера: массовые протесты после кинопремьер",
+        "DateDoc": "11-09-2022 10-00",
+        "URL": "https://www.kommersant.ru/doc/5549293",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Культура",
+                "Url": "https://www.kommersant.ru/rubric/8",
+                "Type": 1,
+                "Id": 8
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Наглядно",
+                "Url": "https://www.kommersant.ru/rubric/137",
+                "Type": 1,
+                "Id": 137
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5538004,
+        "Title": "На разрядку становись!",
+        "DateDoc": "03-09-2022 18-58",
+        "URL": "https://www.kommersant.ru/doc/5538004",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Наглядно",
+                "Url": "https://www.kommersant.ru/rubric/137",
+                "Type": 1,
+                "Id": 137
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5482150,
+        "Title": "От русского сюрприза до последнего вздоха Советского Союза",
+        "DateDoc": "30-07-2022 16-05",
+        "URL": "https://www.kommersant.ru/doc/5482150",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Кирилл Сарханянц",
+                "Url": "https://www.kommersant.ru/authors/575",
+                "Type": 5,
+                "Id": 575
+            },
+            {
+                "Name": "Николай Зубов",
+                "Url": "https://www.kommersant.ru/authors/329",
+                "Type": 5,
+                "Id": 329
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5479220,
+        "Title": "«Критики будут кусать и когда ты прав, и когда ошибешься»",
+        "DateDoc": "23-07-2022 14-31",
+        "URL": "https://www.kommersant.ru/doc/5479220",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Культура",
+                "Url": "https://www.kommersant.ru/rubric/8",
+                "Type": 1,
+                "Id": 8
+            },
+            {
+                "Name": "Книжные новинки и все о литературе",
+                "Url": "https://www.kommersant.ru/theme/960",
+                "Type": 2,
+                "Id": 960
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5448656,
+        "Title": "«Уже через минуту я понял — он великолепен»",
+        "DateDoc": "09-07-2022 20-19",
+        "URL": "https://www.kommersant.ru/doc/5448656",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5368749,
+        "Title": "«Погиб от того самого воздушного озорства»",
+        "DateDoc": "29-05-2022 11-57",
+        "URL": "https://www.kommersant.ru/doc/5368749",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Авиакатастрофы",
+                "Url": "https://www.kommersant.ru/theme/948",
+                "Type": 2,
+                "Id": 948
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Наглядно",
+                "Url": "https://www.kommersant.ru/rubric/137",
+                "Type": 1,
+                "Id": 137
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5357515,
+        "Title": "«Звездно-полосатые флаги развеваются над Кремлем»",
+        "DateDoc": "21-05-2022 13-36",
+        "URL": "https://www.kommersant.ru/doc/5357515",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Николай Зубов",
+                "Url": "https://www.kommersant.ru/authors/329",
+                "Type": 5,
+                "Id": 329
+            },
+            {
+                "Name": "Яна Рождественская",
+                "Url": "https://www.kommersant.ru/authors/577",
+                "Type": 5,
+                "Id": 577
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5348622,
+        "Title": "«Оставаться в России — жизнь потратить на борьбу с ветряными мельницами»",
+        "DateDoc": "14-05-2022 10-05",
+        "URL": "https://www.kommersant.ru/doc/5348622",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Оппозиция в России",
+                "Url": "https://www.kommersant.ru/theme/617",
+                "Type": 2,
+                "Id": 617
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 975,
+        "MainTagTitle": "Анастасия Винницкая",
+        "DocsId": 5326322,
+        "Title": "Русь приговоренная и немного оправданная",
+        "DateDoc": "23-04-2022 15-02",
+        "URL": "https://www.kommersant.ru/doc/5326322",
+        "Tags": [
+            {
+                "Name": "Анастасия Винницкая",
+                "Url": "https://www.kommersant.ru/authors/975",
+                "Type": 5,
+                "Id": 975
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Содержание заключенных",
+                "Url": "https://www.kommersant.ru/theme/1226",
+                "Type": 2,
+                "Id": 1226
+            },
+            {
+                "Name": "Судебная система и уголовное законодательство РФ",
+                "Url": "https://www.kommersant.ru/theme/1161",
+                "Type": 2,
+                "Id": 1161
+            },
+            {
+                "Name": "Андрей Егупец",
+                "Url": "https://www.kommersant.ru/authors/859",
+                "Type": 5,
+                "Id": 859
+            },
+            {
+                "Name": "Ольга Шкуренко",
+                "Url": "https://www.kommersant.ru/authors/263",
+                "Type": 5,
+                "Id": 263
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Наглядно",
+                "Url": "https://www.kommersant.ru/rubric/137",
+                "Type": 1,
+                "Id": 137
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    }
+]

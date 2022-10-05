@@ -1,0 +1,2056 @@
+[
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5582100,
+        "Title": "«Электронным» технопаркам оплатят инфраструктуру",
+        "DateDoc": "27-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582100",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5581347,
+        "Title": "Повестки не укладываются в микросхемы",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581347",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5571902,
+        "Title": "Кооперацию с ЕАЭС полупроводят в жизнь",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571902",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Деятельность Евразийского экономического союза (ЕАЭС)",
+                "Url": "https://www.kommersant.ru/theme/2037",
+                "Type": 2,
+                "Id": 2037
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5571897,
+        "Title": "В вольфрамках санкций",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571897",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5570725,
+        "Title": "Неудачные кадры",
+        "DateDoc": "20-09-2022 01-10",
+        "URL": "https://www.kommersant.ru/doc/5570725",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Рынок труда в России",
+                "Url": "https://www.kommersant.ru/theme/1280",
+                "Type": 2,
+                "Id": 1280
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №173 от 20.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139286",
+                "Type": 6,
+                "Id": 139286
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5560883,
+        "Title": "Всем чипец",
+        "DateDoc": "15-09-2022 23-02",
+        "URL": "https://www.kommersant.ru/doc/5560883",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Анна Занина",
+                "Url": "https://www.kommersant.ru/authors/246",
+                "Type": 5,
+                "Id": 246
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Юрий Литвиненко",
+                "Url": "https://www.kommersant.ru/authors/920",
+                "Type": 5,
+                "Id": 920
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №171 от 16.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139283",
+                "Type": 6,
+                "Id": 139283
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5560082,
+        "Title": "Электроника баллотируется в российское",
+        "DateDoc": "15-09-2022 00-50",
+        "URL": "https://www.kommersant.ru/doc/5560082",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №170 от 15.09.2022, стр. 9",
+                "Url": "https://www.kommersant.ru/daily/139282",
+                "Type": 6,
+                "Id": 139282
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5558844,
+        "Title": "Электронику начнут с чистого нуля",
+        "DateDoc": "13-09-2022 01-23",
+        "URL": "https://www.kommersant.ru/doc/5558844",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №168 от 13.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139280",
+                "Type": 6,
+                "Id": 139280
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5546809,
+        "Title": "Семь пядей в чип",
+        "DateDoc": "05-09-2022 00-41",
+        "URL": "https://www.kommersant.ru/doc/5546809",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №162/П от 05.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139273",
+                "Type": 6,
+                "Id": 139273
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5535154,
+        "Title": "Отсель звонить мы будем шведу",
+        "DateDoc": "29-08-2022 01-33",
+        "URL": "https://www.kommersant.ru/doc/5535154",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №157/П от 29.08.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139267",
+                "Type": 6,
+                "Id": 139267
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5503216,
+        "Title": "Чипам выписали Роспатент",
+        "DateDoc": "10-08-2022 00-41",
+        "URL": "https://www.kommersant.ru/doc/5503216",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №144 от 10.08.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139251",
+                "Type": 6,
+                "Id": 139251
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5492629,
+        "Title": "Электроника плохо параллелится",
+        "DateDoc": "04-08-2022 01-02",
+        "URL": "https://www.kommersant.ru/doc/5492629",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №140 от 04.08.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139246",
+                "Type": 6,
+                "Id": 139246
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5491490,
+        "Title": "Банкам предложат профинансировать микросхемы",
+        "DateDoc": "02-08-2022 01-04",
+        "URL": "https://www.kommersant.ru/doc/5491490",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №138 от 02.08.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139244",
+                "Type": 6,
+                "Id": 139244
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5480664,
+        "Title": "От Bosch требуют гарантий",
+        "DateDoc": "26-07-2022 11-30",
+        "URL": "https://www.kommersant.ru/doc/5480664",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Даниил Бабкин",
+                "Url": "https://www.kommersant.ru/authors/926",
+                "Type": 5,
+                "Id": 926
+            },
+            {
+                "Name": "Ульяна Миненкова",
+                "Url": "https://www.kommersant.ru/authors/924",
+                "Type": 5,
+                "Id": 924
+            },
+            {
+                "Name": "Радио «Ъ FM»",
+                "Url": "https://www.kommersant.ru/fm",
+                "Type": 4,
+                "Id": 210
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5479227,
+        "Title": "Чиповая лихорадка",
+        "DateDoc": "24-07-2022 10-21",
+        "URL": "https://www.kommersant.ru/doc/5479227",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Кирилл Сарханянц",
+                "Url": "https://www.kommersant.ru/authors/575",
+                "Type": 5,
+                "Id": 575
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Провести время",
+                "Url": "https://www.kommersant.ru/rubric/135",
+                "Type": 1,
+                "Id": 135
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5470258,
+        "Title": "Электроника обратной силы",
+        "DateDoc": "20-07-2022 00-29",
+        "URL": "https://www.kommersant.ru/doc/5470258",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №129 от 20.07.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139233",
+                "Type": 6,
+                "Id": 139233
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5459663,
+        "Title": "Евразийскую электронику предложено оболванить",
+        "DateDoc": "14-07-2022 01-03",
+        "URL": "https://www.kommersant.ru/doc/5459663",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Венера Петрова",
+                "Url": "https://www.kommersant.ru/authors/943",
+                "Type": 5,
+                "Id": 943
+            },
+            {
+                "Name": "Юрий Литвиненко",
+                "Url": "https://www.kommersant.ru/authors/920",
+                "Type": 5,
+                "Id": 920
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №125 от 14.07.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139228",
+                "Type": 6,
+                "Id": 139228
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5459108,
+        "Title": "«Элвис» выступит в суде",
+        "DateDoc": "13-07-2022 01-24",
+        "URL": "https://www.kommersant.ru/doc/5459108",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Анна Занина",
+                "Url": "https://www.kommersant.ru/authors/246",
+                "Type": 5,
+                "Id": 246
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №124 от 13.07.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139227",
+                "Type": 6,
+                "Id": 139227
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5435515,
+        "Title": "Электронику разберут на запчасти",
+        "DateDoc": "29-06-2022 00-36",
+        "URL": "https://www.kommersant.ru/doc/5435515",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Юлия Тишина",
+                "Url": "https://www.kommersant.ru/authors/755",
+                "Type": 5,
+                "Id": 755
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №114 от 29.06.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139215",
+                "Type": 6,
+                "Id": 139215
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5423302,
+        "Title": "Евразийская электроника подключается к госзакупкам",
+        "DateDoc": "22-06-2022 00-26",
+        "URL": "https://www.kommersant.ru/doc/5423302",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №109 от 22.06.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139209",
+                "Type": 6,
+                "Id": 139209
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5412025,
+        "Title": "Baikal не серверуется",
+        "DateDoc": "16-06-2022 00-50",
+        "URL": "https://www.kommersant.ru/doc/5412025",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №105 от 16.06.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139204",
+                "Type": 6,
+                "Id": 139204
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5382519,
+        "Title": "«Элвис» сменил бенефициара",
+        "DateDoc": "03-06-2022 00-59",
+        "URL": "https://www.kommersant.ru/doc/5382519",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Татьяна Исакова",
+                "Url": "https://www.kommersant.ru/authors/948",
+                "Type": 5,
+                "Id": 948
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №97 от 03.06.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139193",
+                "Type": 6,
+                "Id": 139193
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5382285,
+        "Title": "Мегагерцы свободы",
+        "DateDoc": "02-06-2022 16-16",
+        "URL": "https://www.kommersant.ru/doc/5382285",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тайвань и его отношения с миром",
+                "Url": "https://www.kommersant.ru/theme/1788",
+                "Type": 2,
+                "Id": 1788
+            },
+            {
+                "Name": "Юрий Литвиненко",
+                "Url": "https://www.kommersant.ru/authors/920",
+                "Type": 5,
+                "Id": 920
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5369334,
+        "Title": "Дизайн-центры выставляют на витрину",
+        "DateDoc": "27-05-2022 01-16",
+        "URL": "https://www.kommersant.ru/doc/5369334",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №92 от 27.05.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139187",
+                "Type": 6,
+                "Id": 139187
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5367522,
+        "Title": "Электронике обещают новые приключения",
+        "DateDoc": "24-05-2022 16-35",
+        "URL": "https://www.kommersant.ru/doc/5367522",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5355456,
+        "Title": "Электроника российской утильсборки",
+        "DateDoc": "17-05-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5355456",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №84 от 17.05.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139178",
+                "Type": 6,
+                "Id": 139178
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5340202,
+        "Title": "Британия морозит «Байкал»",
+        "DateDoc": "05-05-2022 00-46",
+        "URL": "https://www.kommersant.ru/doc/5340202",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Татьяна Исакова",
+                "Url": "https://www.kommersant.ru/authors/948",
+                "Type": 5,
+                "Id": 948
+            },
+            {
+                "Name": "Юрий Литвиненко",
+                "Url": "https://www.kommersant.ru/authors/920",
+                "Type": 5,
+                "Id": 920
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №78 от 05.05.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139168",
+                "Type": 6,
+                "Id": 139168
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5329317,
+        "Title": "«Ростелеком» спелся с «Элвисом»",
+        "DateDoc": "27-04-2022 22-34",
+        "URL": "https://www.kommersant.ru/doc/5329317",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Деятельность \"Ростелекома\"",
+                "Url": "https://www.kommersant.ru/theme/572",
+                "Type": 2,
+                "Id": 572
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Юлия Тишина",
+                "Url": "https://www.kommersant.ru/authors/755",
+                "Type": 5,
+                "Id": 755
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №75 от 28.04.2022, стр. 9",
+                "Url": "https://www.kommersant.ru/daily/139162",
+                "Type": 6,
+                "Id": 139162
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5318409,
+        "Title": "«Микрон» надеется подрасти",
+        "DateDoc": "22-04-2022 01-21",
+        "URL": "https://www.kommersant.ru/doc/5318409",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №71 от 22.04.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139157",
+                "Type": 6,
+                "Id": 139157
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5316368,
+        "Title": "Электроника не кадрируется",
+        "DateDoc": "19-04-2022 01-13",
+        "URL": "https://www.kommersant.ru/doc/5316368",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Российское образование",
+                "Url": "https://www.kommersant.ru/theme/285",
+                "Type": 2,
+                "Id": 285
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №68 от 19.04.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139154",
+                "Type": 6,
+                "Id": 139154
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5306920,
+        "Title": "Правительство снацпроектировало электронику",
+        "DateDoc": "15-04-2022 00-49",
+        "URL": "https://www.kommersant.ru/doc/5306920",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Нацпроекты и госпрограммы",
+                "Url": "https://www.kommersant.ru/theme/3193",
+                "Type": 2,
+                "Id": 3193
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №66 от 15.04.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139151",
+                "Type": 6,
+                "Id": 139151
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5304944,
+        "Title": "Броня кремень, и микросхемы быстры",
+        "DateDoc": "12-04-2022 01-16",
+        "URL": "https://www.kommersant.ru/doc/5304944",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Татьяна Исакова",
+                "Url": "https://www.kommersant.ru/authors/948",
+                "Type": 5,
+                "Id": 948
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №63 от 12.04.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139148",
+                "Type": 6,
+                "Id": 139148
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5304281,
+        "Title": "Электроника второй свежести",
+        "DateDoc": "11-04-2022 01-21",
+        "URL": "https://www.kommersant.ru/doc/5304281",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Анастасия Гаврилюк",
+                "Url": "https://www.kommersant.ru/authors/918",
+                "Type": 5,
+                "Id": 918
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №62/П от 11.04.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139147",
+                "Type": 6,
+                "Id": 139147
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5294399,
+        "Title": "Во всем виноват госплан",
+        "DateDoc": "06-04-2022 01-30",
+        "URL": "https://www.kommersant.ru/doc/5294399",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Венера Петрова",
+                "Url": "https://www.kommersant.ru/authors/943",
+                "Type": 5,
+                "Id": 943
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Олег Сапожков",
+                "Url": "https://www.kommersant.ru/authors/326",
+                "Type": 5,
+                "Id": 326
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №59 от 06.04.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139143",
+                "Type": 6,
+                "Id": 139143
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5294247,
+        "Title": "Нанометры от планов до банкротства",
+        "DateDoc": "06-04-2022 01-30",
+        "URL": "https://www.kommersant.ru/doc/5294247",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №59 от 06.04.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139143",
+                "Type": 6,
+                "Id": 139143
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5294238,
+        "Title": "Процессоры в изоляции",
+        "DateDoc": "06-04-2022 01-30",
+        "URL": "https://www.kommersant.ru/doc/5294238",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Тенденции",
+                "Url": "https://www.kommersant.ru/theme/3155",
+                "Type": 2,
+                "Id": 3155
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №59 от 06.04.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139143",
+                "Type": 6,
+                "Id": 139143
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5269661,
+        "Title": "На золотом конце",
+        "DateDoc": "21-03-2022 01-19",
+        "URL": "https://www.kommersant.ru/doc/5269661",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Юрий Литвиненко",
+                "Url": "https://www.kommersant.ru/authors/920",
+                "Type": 5,
+                "Id": 920
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №47/П от 21.03.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139129",
+                "Type": 6,
+                "Id": 139129
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5259441,
+        "Title": "Foxconn частично возобновляет производство в Шэньчжэне",
+        "DateDoc": "16-03-2022 16-37",
+        "URL": "https://www.kommersant.ru/doc/5259441",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Hi-Tech",
+                "Url": "https://www.kommersant.ru/hitech",
+                "Type": 1,
+                "Id": 80
+            },
+            {
+                "Name": "Яна Рождественская",
+                "Url": "https://www.kommersant.ru/authors/577",
+                "Type": 5,
+                "Id": 577
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5240333,
+        "Title": "Импортозамещение придется повторить",
+        "DateDoc": "04-03-2022 01-29",
+        "URL": "https://www.kommersant.ru/doc/5240333",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Импортозамещение",
+                "Url": "https://www.kommersant.ru/theme/2282",
+                "Type": 2,
+                "Id": 2282
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Венера Петрова",
+                "Url": "https://www.kommersant.ru/authors/943",
+                "Type": 5,
+                "Id": 943
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №38 от 04.03.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139115",
+                "Type": 6,
+                "Id": 139115
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 2,
+        "MainTagId": 2904,
+        "MainTagTitle": "Рынок микроэлектроники",
+        "DocsId": 5236689,
+        "Title": "Электроника присматривается к ограничениям",
+        "DateDoc": "25-02-2022 19-50",
+        "URL": "https://www.kommersant.ru/doc/5236689",
+        "Tags": [
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Радио «Ъ FM»",
+                "Url": "https://www.kommersant.ru/fm",
+                "Type": 4,
+                "Id": 210
+            }
+        ]
+    }
+]

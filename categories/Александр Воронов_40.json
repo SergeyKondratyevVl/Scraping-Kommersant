@@ -1,0 +1,2008 @@
+[
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5572533,
+        "Title": "Кто как призывается",
+        "DateDoc": "22-09-2022 23-27",
+        "URL": "https://www.kommersant.ru/doc/5572533",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №176 от 23.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139289",
+                "Type": 6,
+                "Id": 139289
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5571839,
+        "Title": "Вставай, страна частичная",
+        "DateDoc": "21-09-2022 23-45",
+        "URL": "https://www.kommersant.ru/doc/5571839",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Наталья Костарнова",
+                "Url": "https://www.kommersant.ru/authors/916",
+                "Type": 5,
+                "Id": 916
+            },
+            {
+                "Name": "Сергей Толмачев",
+                "Url": "https://www.kommersant.ru/authors/910",
+                "Type": 5,
+                "Id": 910
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5571230,
+        "Title": "Референдумы специального назначения",
+        "DateDoc": "20-09-2022 23-51",
+        "URL": "https://www.kommersant.ru/doc/5571230",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Елена Рожкова",
+                "Url": "https://www.kommersant.ru/authors/896",
+                "Type": 5,
+                "Id": 896
+            },
+            {
+                "Name": "Елена Черненко",
+                "Url": "https://www.kommersant.ru/authors/422",
+                "Type": 5,
+                "Id": 422
+            },
+            {
+                "Name": "Кирилл Кривошеев",
+                "Url": "https://www.kommersant.ru/authors/690",
+                "Type": 5,
+                "Id": 690
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №174 от 21.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139287",
+                "Type": 6,
+                "Id": 139287
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5570617,
+        "Title": "В Мосгорнаследия объяснили строительные работы на Китайгородской стене",
+        "DateDoc": "19-09-2022 19-09",
+        "URL": "https://www.kommersant.ru/doc/5570617",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5570036,
+        "Title": "От «Мемориала» требуют освободить помещение",
+        "DateDoc": "19-09-2022 01-08",
+        "URL": "https://www.kommersant.ru/doc/5570036",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность НКО и НПО",
+                "Url": "https://www.kommersant.ru/theme/132",
+                "Type": 2,
+                "Id": 132
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №172/П от 19.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139285",
+                "Type": 6,
+                "Id": 139285
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5549465,
+        "Title": "У российских журналистов поискали украинского куратора",
+        "DateDoc": "08-09-2022 23-21",
+        "URL": "https://www.kommersant.ru/doc/5549465",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Проблемы журналистов из-за профессиональной деятельности",
+                "Url": "https://www.kommersant.ru/theme/313",
+                "Type": 2,
+                "Id": 313
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №166 от 09.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139277",
+                "Type": 6,
+                "Id": 139277
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5548723,
+        "Title": "Рокеры затаскались по судам",
+        "DateDoc": "08-09-2022 01-27",
+        "URL": "https://www.kommersant.ru/doc/5548723",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Осмысление войны в искусстве",
+                "Url": "https://www.kommersant.ru/theme/3430",
+                "Type": 2,
+                "Id": 3430
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №165 от 08.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139276",
+                "Type": 6,
+                "Id": 139276
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5548090,
+        "Title": "У «Новой газеты» отнимают и журнал",
+        "DateDoc": "06-09-2022 21-16",
+        "URL": "https://www.kommersant.ru/doc/5548090",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Закон о СМИ",
+                "Url": "https://www.kommersant.ru/theme/568",
+                "Type": 2,
+                "Id": 568
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5547494,
+        "Title": "«Новой газете» вменили старое",
+        "DateDoc": "05-09-2022 22-09",
+        "URL": "https://www.kommersant.ru/doc/5547494",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность Роскомнадзора",
+                "Url": "https://www.kommersant.ru/theme/2974",
+                "Type": 2,
+                "Id": 2974
+            },
+            {
+                "Name": "Закон о СМИ",
+                "Url": "https://www.kommersant.ru/theme/568",
+                "Type": 2,
+                "Id": 568
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №163 от 06.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139274",
+                "Type": 6,
+                "Id": 139274
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5538094,
+        "Title": "«Сахих аль-Бухари» нашел своего читателя",
+        "DateDoc": "01-09-2022 22-44",
+        "URL": "https://www.kommersant.ru/doc/5538094",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Обстановка на Северном Кавказе",
+                "Url": "https://www.kommersant.ru/theme/2042",
+                "Type": 2,
+                "Id": 2042
+            },
+            {
+                "Name": "Ситуация в Чечне",
+                "Url": "https://www.kommersant.ru/theme/207",
+                "Type": 2,
+                "Id": 207
+            },
+            {
+                "Name": "Экстремизм, национализм, оскорбление чувств верующих",
+                "Url": "https://www.kommersant.ru/theme/277",
+                "Type": 2,
+                "Id": 277
+            },
+            {
+                "Name": "Павел Коробов",
+                "Url": "https://www.kommersant.ru/authors/146",
+                "Type": 5,
+                "Id": 146
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №161 от 02.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139271",
+                "Type": 6,
+                "Id": 139271
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5536038,
+        "Title": "Патриотизм по расписанию",
+        "DateDoc": "29-08-2022 22-44",
+        "URL": "https://www.kommersant.ru/doc/5536038",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Российское образование",
+                "Url": "https://www.kommersant.ru/theme/285",
+                "Type": 2,
+                "Id": 285
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №158 от 30.08.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139268",
+                "Type": 6,
+                "Id": 139268
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5525350,
+        "Title": "Вице-премьера бросили на огонь",
+        "DateDoc": "23-08-2022 22-43",
+        "URL": "https://www.kommersant.ru/doc/5525350",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Пожары в России",
+                "Url": "https://www.kommersant.ru/theme/1080",
+                "Type": 2,
+                "Id": 1080
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №154 от 24.08.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139263",
+                "Type": 6,
+                "Id": 139263
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5524144,
+        "Title": "Скачки с реконструкцией",
+        "DateDoc": "23-08-2022 01-01",
+        "URL": "https://www.kommersant.ru/doc/5524144",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №153 от 23.08.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139262",
+                "Type": 6,
+                "Id": 139262
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5514836,
+        "Title": "Москву посыпало пеплом",
+        "DateDoc": "17-08-2022 20-16",
+        "URL": "https://www.kommersant.ru/doc/5514836",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Погодные аномалии",
+                "Url": "https://www.kommersant.ru/theme/2989",
+                "Type": 2,
+                "Id": 2989
+            },
+            {
+                "Name": "Пожары в России",
+                "Url": "https://www.kommersant.ru/theme/1080",
+                "Type": 2,
+                "Id": 1080
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №150 от 18.08.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139258",
+                "Type": 6,
+                "Id": 139258
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5503244,
+        "Title": "Москва еще пофестивалит",
+        "DateDoc": "10-08-2022 00-41",
+        "URL": "https://www.kommersant.ru/doc/5503244",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность Мосгордумы",
+                "Url": "https://www.kommersant.ru/theme/1141",
+                "Type": 2,
+                "Id": 1141
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №144 от 10.08.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139251",
+                "Type": 6,
+                "Id": 139251
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5482255,
+        "Title": "«Новую газету» закрывают по-старому",
+        "DateDoc": "28-07-2022 22-10",
+        "URL": "https://www.kommersant.ru/doc/5482255",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность Роскомнадзора",
+                "Url": "https://www.kommersant.ru/theme/2974",
+                "Type": 2,
+                "Id": 2974
+            },
+            {
+                "Name": "Закон о СМИ",
+                "Url": "https://www.kommersant.ru/theme/568",
+                "Type": 2,
+                "Id": 568
+            },
+            {
+                "Name": "Валерия Лебедева",
+                "Url": "https://www.kommersant.ru/authors/853",
+                "Type": 5,
+                "Id": 853
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №136 от 29.07.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139241",
+                "Type": 6,
+                "Id": 139241
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5480517,
+        "Title": "Обучение соединят с изучением",
+        "DateDoc": "26-07-2022 00-59",
+        "URL": "https://www.kommersant.ru/doc/5480517",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Наука в России",
+                "Url": "https://www.kommersant.ru/theme/415",
+                "Type": 2,
+                "Id": 415
+            },
+            {
+                "Name": "Российское образование",
+                "Url": "https://www.kommersant.ru/theme/285",
+                "Type": 2,
+                "Id": 285
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №133 от 26.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139238",
+                "Type": 6,
+                "Id": 139238
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5478997,
+        "Title": "Гонконгская биржа: возможности и риски для российских инвесторов",
+        "DateDoc": "22-07-2022 13-51",
+        "URL": "https://www.kommersant.ru/doc/5478997",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Центральная Сибирь / Партнерский материал",
+                "Url": "https://www.kommersant.ru/rubric/109/24",
+                "Type": 1,
+                "Id": 109
+            },
+            {
+                "Name": "Центральная Сибирь",
+                "Url": "https://www.kommersant.ru/regions/24",
+                "Type": 3,
+                "Id": 24
+            },
+            {
+                "Name": "Ъ-Красноярск-Online",
+                "Url": "https://www.kommersant.ru/archive/online/166",
+                "Type": 4,
+                "Id": 166
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5471453,
+        "Title": "Шабаш шалом",
+        "DateDoc": "22-07-2022 00-51",
+        "URL": "https://www.kommersant.ru/doc/5471453",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Все о Ближнем Востоке",
+                "Url": "https://www.kommersant.ru/theme/3174",
+                "Type": 2,
+                "Id": 3174
+            },
+            {
+                "Name": "Израиль и его отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/559",
+                "Type": 2,
+                "Id": 559
+            },
+            {
+                "Name": "Андрей Винокуров",
+                "Url": "https://www.kommersant.ru/authors/887",
+                "Type": 5,
+                "Id": 887
+            },
+            {
+                "Name": "Марианна Беленькая",
+                "Url": "https://www.kommersant.ru/authors/823",
+                "Type": 5,
+                "Id": 823
+            },
+            {
+                "Name": "Павел Коробов",
+                "Url": "https://www.kommersant.ru/authors/146",
+                "Type": 5,
+                "Id": 146
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №131 от 22.07.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139235",
+                "Type": 6,
+                "Id": 139235
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5470830,
+        "Title": "К столичным рельсам пристраивают бордюры",
+        "DateDoc": "21-07-2022 00-32",
+        "URL": "https://www.kommersant.ru/doc/5470830",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Развитие Москвы. Генплан",
+                "Url": "https://www.kommersant.ru/theme/1432",
+                "Type": 2,
+                "Id": 1432
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №130 от 21.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139234",
+                "Type": 6,
+                "Id": 139234
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5469576,
+        "Title": "Вопросы геелогии",
+        "DateDoc": "18-07-2022 23-15",
+        "URL": "https://www.kommersant.ru/doc/5469576",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Секс-меньшинства",
+                "Url": "https://www.kommersant.ru/theme/406",
+                "Type": 2,
+                "Id": 406
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №128 от 19.07.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139232",
+                "Type": 6,
+                "Id": 139232
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5469004,
+        "Title": "Получите за COVID",
+        "DateDoc": "18-07-2022 00-43",
+        "URL": "https://www.kommersant.ru/doc/5469004",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Пандемия коронавируса",
+                "Url": "https://www.kommersant.ru/theme/3304",
+                "Type": 2,
+                "Id": 3304
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №127/П от 18.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139231",
+                "Type": 6,
+                "Id": 139231
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5459609,
+        "Title": "Минина и Пожарского придвинули к Кремлю",
+        "DateDoc": "13-07-2022 20-08",
+        "URL": "https://www.kommersant.ru/doc/5459609",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №125 от 14.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139228",
+                "Type": 6,
+                "Id": 139228
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5448161,
+        "Title": "Электричеству не дали воду",
+        "DateDoc": "07-07-2022 03-15",
+        "URL": "https://www.kommersant.ru/doc/5448161",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5447413,
+        "Title": "Лишение беда начало",
+        "DateDoc": "05-07-2022 22-14",
+        "URL": "https://www.kommersant.ru/doc/5447413",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Автомобильные правила и штрафы",
+                "Url": "https://www.kommersant.ru/theme/1888",
+                "Type": 2,
+                "Id": 1888
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Иван Буранов",
+                "Url": "https://www.kommersant.ru/authors/142",
+                "Type": 5,
+                "Id": 142
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №119 от 06.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139221",
+                "Type": 6,
+                "Id": 139221
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5446049,
+        "Title": "Охранники широкого профиля",
+        "DateDoc": "04-07-2022 01-19",
+        "URL": "https://www.kommersant.ru/doc/5446049",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №117/П от 04.07.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139219",
+                "Type": 6,
+                "Id": 139219
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5436884,
+        "Title": "Московским переселенцам дают новый срок",
+        "DateDoc": "30-06-2022 22-52",
+        "URL": "https://www.kommersant.ru/doc/5436884",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Снос пятиэтажек",
+                "Url": "https://www.kommersant.ru/theme/2784",
+                "Type": 2,
+                "Id": 2784
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №116 от 01.07.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139217",
+                "Type": 6,
+                "Id": 139217
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5435541,
+        "Title": "Арбатские переулки заиграют новыми плитками",
+        "DateDoc": "29-06-2022 00-36",
+        "URL": "https://www.kommersant.ru/doc/5435541",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Развитие Москвы. Генплан",
+                "Url": "https://www.kommersant.ru/theme/1432",
+                "Type": 2,
+                "Id": 1432
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №114 от 29.06.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139215",
+                "Type": 6,
+                "Id": 139215
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5411558,
+        "Title": "Парковки ограничивают в возможностях",
+        "DateDoc": "16-06-2022 00-50",
+        "URL": "https://www.kommersant.ru/doc/5411558",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Защита прав инвалидов",
+                "Url": "https://www.kommersant.ru/theme/783",
+                "Type": 2,
+                "Id": 783
+            },
+            {
+                "Name": "Наталья Костарнова",
+                "Url": "https://www.kommersant.ru/authors/916",
+                "Type": 5,
+                "Id": 916
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №105 от 16.06.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139204",
+                "Type": 6,
+                "Id": 139204
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5396217,
+        "Title": "Как горится",
+        "DateDoc": "10-06-2022 00-37",
+        "URL": "https://www.kommersant.ru/doc/5396217",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Пожары в России",
+                "Url": "https://www.kommersant.ru/theme/1080",
+                "Type": 2,
+                "Id": 1080
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №102 от 10.06.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139199",
+                "Type": 6,
+                "Id": 139199
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5394927,
+        "Title": "Донецк Америке, Луганск Германии",
+        "DateDoc": "08-06-2022 23-13",
+        "URL": "https://www.kommersant.ru/doc/5394927",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "США. Отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/248",
+                "Type": 2,
+                "Id": 248
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Мария Старикова",
+                "Url": "https://www.kommersant.ru/authors/898",
+                "Type": 5,
+                "Id": 898
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №101 от 09.06.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139198",
+                "Type": 6,
+                "Id": 139198
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5368507,
+        "Title": "Коронавирусные штрафы подвели под амнистию",
+        "DateDoc": "25-05-2022 21-42",
+        "URL": "https://www.kommersant.ru/doc/5368507",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность Мосгордумы",
+                "Url": "https://www.kommersant.ru/theme/1141",
+                "Type": 2,
+                "Id": 1141
+            },
+            {
+                "Name": "Пандемия коронавируса",
+                "Url": "https://www.kommersant.ru/theme/3304",
+                "Type": 2,
+                "Id": 3304
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5357585,
+        "Title": "Дипломатов США ставят лицом к лицу с защитниками Донбасса",
+        "DateDoc": "19-05-2022 22-45",
+        "URL": "https://www.kommersant.ru/doc/5357585",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Все о США",
+                "Url": "https://www.kommersant.ru/theme/3171",
+                "Type": 2,
+                "Id": 3171
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "США. Отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/248",
+                "Type": 2,
+                "Id": 248
+            },
+            {
+                "Name": "Елена Черненко",
+                "Url": "https://www.kommersant.ru/authors/422",
+                "Type": 5,
+                "Id": 422
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №87 от 20.05.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139181",
+                "Type": 6,
+                "Id": 139181
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5356896,
+        "Title": "На Москву-реку спускают «Синичку»",
+        "DateDoc": "18-05-2022 22-46",
+        "URL": "https://www.kommersant.ru/doc/5356896",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность Сергея Собянина",
+                "Url": "https://www.kommersant.ru/theme/1278",
+                "Type": 2,
+                "Id": 1278
+            },
+            {
+                "Name": "Развитие Москвы. Генплан",
+                "Url": "https://www.kommersant.ru/theme/1432",
+                "Type": 2,
+                "Id": 1432
+            },
+            {
+                "Name": "Судостроение и судоходство",
+                "Url": "https://www.kommersant.ru/theme/1800",
+                "Type": 2,
+                "Id": 1800
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №86 от 19.05.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139180",
+                "Type": 6,
+                "Id": 139180
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5355477,
+        "Title": "Адвокатов отклонили от профсоюзной линии",
+        "DateDoc": "17-05-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5355477",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Адвокатская деятельность в России",
+                "Url": "https://www.kommersant.ru/theme/2839",
+                "Type": 2,
+                "Id": 2839
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №84 от 17.05.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139178",
+                "Type": 6,
+                "Id": 139178
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5348552,
+        "Title": "Студентов научат работодателей любить",
+        "DateDoc": "13-05-2022 01-34",
+        "URL": "https://www.kommersant.ru/doc/5348552",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Российское образование",
+                "Url": "https://www.kommersant.ru/theme/285",
+                "Type": 2,
+                "Id": 285
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №82 от 13.05.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139175",
+                "Type": 6,
+                "Id": 139175
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5329998,
+        "Title": "С буллингом попробуют не примиряться",
+        "DateDoc": "29-04-2022 01-54",
+        "URL": "https://www.kommersant.ru/doc/5329998",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Российское образование",
+                "Url": "https://www.kommersant.ru/theme/285",
+                "Type": 2,
+                "Id": 285
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №76 от 29.04.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139163",
+                "Type": 6,
+                "Id": 139163
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5328587,
+        "Title": "«Курьеру» доставили уголовное дело",
+        "DateDoc": "27-04-2022 01-52",
+        "URL": "https://www.kommersant.ru/doc/5328587",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Митинги и пикеты",
+                "Url": "https://www.kommersant.ru/theme/366",
+                "Type": 2,
+                "Id": 366
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №74 от 27.04.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139161",
+                "Type": 6,
+                "Id": 139161
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5317612,
+        "Title": "Батареи на лето отключат от рублей",
+        "DateDoc": "21-04-2022 01-22",
+        "URL": "https://www.kommersant.ru/doc/5317612",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность ЖКХ",
+                "Url": "https://www.kommersant.ru/theme/25",
+                "Type": 2,
+                "Id": 25
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №70 от 21.04.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139156",
+                "Type": 6,
+                "Id": 139156
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 5,
+        "MainTagId": 143,
+        "MainTagTitle": "Александр Воронов",
+        "DocsId": 5317090,
+        "Title": "Природе оставляют некоторых охранителей",
+        "DateDoc": "20-04-2022 01-32",
+        "URL": "https://www.kommersant.ru/doc/5317090",
+        "Tags": [
+            {
+                "Name": "Александр Воронов",
+                "Url": "https://www.kommersant.ru/authors/143",
+                "Type": 5,
+                "Id": 143
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Изменение границ нацпарков, заповедников и особо охраняемых природных территорий",
+                "Url": "https://www.kommersant.ru/theme/2878",
+                "Type": 2,
+                "Id": 2878
+            },
+            {
+                "Name": "Проблемы экологии",
+                "Url": "https://www.kommersant.ru/theme/941",
+                "Type": 2,
+                "Id": 941
+            },
+            {
+                "Name": "Анна Васильева",
+                "Url": "https://www.kommersant.ru/authors/828",
+                "Type": 5,
+                "Id": 828
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №69 от 20.04.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139155",
+                "Type": 6,
+                "Id": 139155
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,1300 @@
+[
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583515,
+        "Title": "Губернатор провинции Тегеран заявил об окончании протестов",
+        "DateDoc": "29-09-2022 10-43",
+        "URL": "https://www.kommersant.ru/doc/5583515",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583502,
+        "Title": "Helsingin Sanomat: Финляндия ограничит въезд россиян с 30 сентября",
+        "DateDoc": "29-09-2022 10-30",
+        "URL": "https://www.kommersant.ru/doc/5583502",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583483,
+        "Title": "EUobserver: ЕС может запретить импорт российской икры, водки и сигарет",
+        "DateDoc": "29-09-2022 10-12",
+        "URL": "https://www.kommersant.ru/doc/5583483",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583486,
+        "Title": "Стремоусов: главы ДНР, ЛНР, Запорожья и Херсонщины встретятся с Путиным",
+        "DateDoc": "29-09-2022 10-11",
+        "URL": "https://www.kommersant.ru/doc/5583486",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583359,
+        "Title": "Россия оказалась во власти бренда",
+        "DateDoc": "29-09-2022 10-01",
+        "URL": "https://www.kommersant.ru/doc/5583359",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Россия в мировых рейтингах",
+                "Url": "https://www.kommersant.ru/theme/399",
+                "Type": 2,
+                "Id": 399
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583484,
+        "Title": "МИД РФ: взрывы на «Северных потоках» произошли в зоне контроля американской разведки",
+        "DateDoc": "29-09-2022 10-00",
+        "URL": "https://www.kommersant.ru/doc/5583484",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583460,
+        "Title": "На границе России и Казахстана может появиться зеленый коридор для казахстанцев и грузовиков",
+        "DateDoc": "29-09-2022 09-37",
+        "URL": "https://www.kommersant.ru/doc/5583460",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583469,
+        "Title": "Спикер госсовета Крыма считает, что Азовское море станет внутренним морем России",
+        "DateDoc": "29-09-2022 09-36",
+        "URL": "https://www.kommersant.ru/doc/5583469",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583441,
+        "Title": "Что происходит после ввода войск России на Украину. День 218-й",
+        "DateDoc": "29-09-2022 09-01",
+        "URL": "https://www.kommersant.ru/doc/5583441",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Онлайн-трансляции",
+                "Url": "https://www.kommersant.ru/rubric/43",
+                "Type": 1,
+                "Id": 43
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583409,
+        "Title": "Армения считает, что Азербайджан хочет сорвать встречу министров иностранных дел двух стран",
+        "DateDoc": "29-09-2022 07-25",
+        "URL": "https://www.kommersant.ru/doc/5583409",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583403,
+        "Title": "Рэпер Coolio умер в возрасте 59 лет",
+        "DateDoc": "29-09-2022 06-44",
+        "URL": "https://www.kommersant.ru/doc/5583403",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583402,
+        "Title": "В Иране могут заключить партнерство с АвтоВАЗом",
+        "DateDoc": "29-09-2022 06-17",
+        "URL": "https://www.kommersant.ru/doc/5583402",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583397,
+        "Title": "Из-за урагана «Иэн» более 1,8 млн человек остались без света во Флориде",
+        "DateDoc": "29-09-2022 05-01",
+        "URL": "https://www.kommersant.ru/doc/5583397",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Олеся Павленко",
+                "Url": "https://www.kommersant.ru/authors/973",
+                "Type": 5,
+                "Id": 973
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583393,
+        "Title": "В ЛНР считают, что войдут в состав России в течение недели",
+        "DateDoc": "29-09-2022 04-01",
+        "URL": "https://www.kommersant.ru/doc/5583393",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583392,
+        "Title": "Антонов: США подталкивают ситуацию к столкновению крупнейших ядерных держав",
+        "DateDoc": "29-09-2022 03-42",
+        "URL": "https://www.kommersant.ru/doc/5583392",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583391,
+        "Title": "СМИ: Израиль собирается выделить $25,5 млн на новых репатриантов из России на фоне мобилизации",
+        "DateDoc": "29-09-2022 03-17",
+        "URL": "https://www.kommersant.ru/doc/5583391",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Олеся Павленко",
+                "Url": "https://www.kommersant.ru/authors/973",
+                "Type": 5,
+                "Id": 973
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583390,
+        "Title": "В результате стрельбы в Калифорнии пострадали шесть человек",
+        "DateDoc": "29-09-2022 02-42",
+        "URL": "https://www.kommersant.ru/doc/5583390",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Олеся Павленко",
+                "Url": "https://www.kommersant.ru/authors/973",
+                "Type": 5,
+                "Id": 973
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583389,
+        "Title": "СМИ: Германия поставляет разведданные Украине",
+        "DateDoc": "29-09-2022 02-15",
+        "URL": "https://www.kommersant.ru/doc/5583389",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583387,
+        "Title": "СМИ: над Херсоном прогремело несколько взрывов",
+        "DateDoc": "29-09-2022 01-48",
+        "URL": "https://www.kommersant.ru/doc/5583387",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583281,
+        "Title": "На вице-скандальном уровне",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583281",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Все об Азии",
+                "Url": "https://www.kommersant.ru/theme/3173",
+                "Type": 2,
+                "Id": 3173
+            },
+            {
+                "Name": "КНДР и ее отношения с миром",
+                "Url": "https://www.kommersant.ru/theme/529",
+                "Type": 2,
+                "Id": 529
+            },
+            {
+                "Name": "Сергей Строкань",
+                "Url": "https://www.kommersant.ru/authors/39",
+                "Type": 5,
+                "Id": 39
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 6",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583385,
+        "Title": "Финляндия примет решение об ограничении въезда для россиян 29 сентября",
+        "DateDoc": "29-09-2022 00-51",
+        "URL": "https://www.kommersant.ru/doc/5583385",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583371,
+        "Title": "Эрдоган: Путин «если что-то задумал, сделает это»",
+        "DateDoc": "29-09-2022 00-22",
+        "URL": "https://www.kommersant.ru/doc/5583371",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583346,
+        "Title": "Главы ЛНР, ДНР, ВГА Запорожской и Херсонской областей прилетели в Москву",
+        "DateDoc": "28-09-2022 23-19",
+        "URL": "https://www.kommersant.ru/doc/5583346",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583337,
+        "Title": "Белый дом объяснил слова Байдена о намерении «положить конец» «Северному потоку»",
+        "DateDoc": "28-09-2022 22-50",
+        "URL": "https://www.kommersant.ru/doc/5583337",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583270,
+        "Title": "Обвинения поставили на поток",
+        "DateDoc": "28-09-2022 22-42",
+        "URL": "https://www.kommersant.ru/doc/5583270",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Аварии на «Северных потоках»",
+                "Url": "https://www.kommersant.ru/theme/414",
+                "Type": 2,
+                "Id": 414
+            },
+            {
+                "Name": "Газовые отношения России, Украины и Евросоюза",
+                "Url": "https://www.kommersant.ru/theme/225",
+                "Type": 2,
+                "Id": 225
+            },
+            {
+                "Name": "Газовый рынок",
+                "Url": "https://www.kommersant.ru/theme/1824",
+                "Type": 2,
+                "Id": 1824
+            },
+            {
+                "Name": "Елена Черненко",
+                "Url": "https://www.kommersant.ru/authors/422",
+                "Type": 5,
+                "Id": 422
+            },
+            {
+                "Name": "Татьяна Дятел",
+                "Url": "https://www.kommersant.ru/authors/732",
+                "Type": 5,
+                "Id": 732
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583340,
+        "Title": "В Праге прошла крупная антиправительственная акция",
+        "DateDoc": "28-09-2022 22-40",
+        "URL": "https://www.kommersant.ru/doc/5583340",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583327,
+        "Title": "Politico: ЕС запретит ввоз металлов и драгоценных камней из России",
+        "DateDoc": "28-09-2022 22-38",
+        "URL": "https://www.kommersant.ru/doc/5583327",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583325,
+        "Title": "Референдумам ищут санкции по чину",
+        "DateDoc": "28-09-2022 22-09",
+        "URL": "https://www.kommersant.ru/doc/5583325",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Марианна Беленькая",
+                "Url": "https://www.kommersant.ru/authors/823",
+                "Type": 5,
+                "Id": 823
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 6",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583294,
+        "Title": "В Швеции начали предварительное расследование по «Северному потоку»",
+        "DateDoc": "28-09-2022 21-08",
+        "URL": "https://www.kommersant.ru/doc/5583294",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583299,
+        "Title": "Пентагон выделил Украине $1,1 млрд военной помощи",
+        "DateDoc": "28-09-2022 21-07",
+        "URL": "https://www.kommersant.ru/doc/5583299",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583272,
+        "Title": "Рогов анонсировал референдум после взятия всех территорий Запорожья",
+        "DateDoc": "28-09-2022 20-28",
+        "URL": "https://www.kommersant.ru/doc/5583272",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583274,
+        "Title": "Соломоновых решение",
+        "DateDoc": "28-09-2022 20-14",
+        "URL": "https://www.kommersant.ru/doc/5583274",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Все о США",
+                "Url": "https://www.kommersant.ru/theme/3171",
+                "Type": 2,
+                "Id": 3171
+            },
+            {
+                "Name": "Алексей Забродин",
+                "Url": "https://www.kommersant.ru/authors/984",
+                "Type": 5,
+                "Id": 984
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583267,
+        "Title": "МИД Латвии призвал граждан немедленно покинуть Россию",
+        "DateDoc": "28-09-2022 20-05",
+        "URL": "https://www.kommersant.ru/doc/5583267",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583275,
+        "Title": "ФСБ возбудила дело по статье о международном терроризме из-за повреждений «Северных потоков»",
+        "DateDoc": "28-09-2022 19-54",
+        "URL": "https://www.kommersant.ru/doc/5583275",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583247,
+        "Title": "Банк Англии начал скупать долгосрочные гособлигации «в целях финансовой стабильности»",
+        "DateDoc": "28-09-2022 19-13",
+        "URL": "https://www.kommersant.ru/doc/5583247",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Яна Рождественская",
+                "Url": "https://www.kommersant.ru/authors/577",
+                "Type": 5,
+                "Id": 577
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583234,
+        "Title": "Грузия назвала визит Лукашенко в Абхазию нарушением международного права",
+        "DateDoc": "28-09-2022 19-08",
+        "URL": "https://www.kommersant.ru/doc/5583234",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583243,
+        "Title": "В ЕС пообещали «единый и решительный ответ» в случае диверсии на «Северных потоках»",
+        "DateDoc": "28-09-2022 19-07",
+        "URL": "https://www.kommersant.ru/doc/5583243",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583239,
+        "Title": "Грузия назвала неприемлемыми пророссийские референдумы на украинской территории",
+        "DateDoc": "28-09-2022 18-52",
+        "URL": "https://www.kommersant.ru/doc/5583239",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583225,
+        "Title": "Движение в Босфоре остановлено из-за поломки шедшего в Россию сухогруза",
+        "DateDoc": "28-09-2022 18-17",
+        "URL": "https://www.kommersant.ru/doc/5583225",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 5,
+        "MainTagTitle": "Мир",
+        "DocsId": 5583180,
+        "Title": "Еврокомиссия предложила создать правовой механизм для ограничения цен на российскую нефть",
+        "DateDoc": "28-09-2022 17-21",
+        "URL": "https://www.kommersant.ru/doc/5583180",
+        "Tags": [
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    }
+]

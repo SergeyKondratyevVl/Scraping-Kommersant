@@ -1,0 +1,1624 @@
+[
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583575,
+        "Title": "Депутаты Госдумы получили приглашения на 30 сентября в Кремль",
+        "DateDoc": "29-09-2022 12-00",
+        "URL": "https://www.kommersant.ru/doc/5583575",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583486,
+        "Title": "Стремоусов: главы ДНР, ЛНР, Запорожья и Херсонщины встретятся с Путиным",
+        "DateDoc": "29-09-2022 10-11",
+        "URL": "https://www.kommersant.ru/doc/5583486",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583415,
+        "Title": "Думу Владивостока вновь возглавил единоросс",
+        "DateDoc": "29-09-2022 07-39",
+        "URL": "https://www.kommersant.ru/doc/5583415",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Алексей  Чернышев",
+                "Url": "https://www.kommersant.ru/authors/868",
+                "Type": 5,
+                "Id": 868
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583350,
+        "Title": "Право на самоотделение",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583350",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Андрей Винокуров",
+                "Url": "https://www.kommersant.ru/authors/887",
+                "Type": 5,
+                "Id": 887
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583348,
+        "Title": "Волжская перезагрузка",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583348",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Деятельность мэров и региональных парламентов",
+                "Url": "https://www.kommersant.ru/theme/463",
+                "Type": 2,
+                "Id": 463
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583208,
+        "Title": "Добровольцам дадут небоевое задание",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583208",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Развитие волонтерства",
+                "Url": "https://www.kommersant.ru/theme/1993",
+                "Type": 2,
+                "Id": 1993
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Винокуров",
+                "Url": "https://www.kommersant.ru/authors/887",
+                "Type": 5,
+                "Id": 887
+            },
+            {
+                "Name": "Елена Рожкова",
+                "Url": "https://www.kommersant.ru/authors/896",
+                "Type": 5,
+                "Id": 896
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583347,
+        "Title": "Дума мобилизуется на защиту мобилизации",
+        "DateDoc": "28-09-2022 23-05",
+        "URL": "https://www.kommersant.ru/doc/5583347",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583106,
+        "Title": "Балицкий попросил Путина принять Запорожье в состав России",
+        "DateDoc": "28-09-2022 15-27",
+        "URL": "https://www.kommersant.ru/doc/5583106",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582961,
+        "Title": "Владимирский губернатор потребовал от коллег не пиариться на мобилизации",
+        "DateDoc": "28-09-2022 14-43",
+        "URL": "https://www.kommersant.ru/doc/5582961",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5583010,
+        "Title": "Володин предложил брать на госслужбу только отслуживших",
+        "DateDoc": "28-09-2022 13-59",
+        "URL": "https://www.kommersant.ru/doc/5583010",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582956,
+        "Title": "Сальдо попросил Путина принять Херсонскую область в состав России",
+        "DateDoc": "28-09-2022 12-45",
+        "URL": "https://www.kommersant.ru/doc/5582956",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582928,
+        "Title": "Замглавы ВГА Херсонской области Стремоусов получил российский паспорт в Крыму",
+        "DateDoc": "28-09-2022 12-42",
+        "URL": "https://www.kommersant.ru/doc/5582928",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Александр Дремлюгин",
+                "Url": "https://www.kommersant.ru/authors/907",
+                "Type": 5,
+                "Id": 907
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582945,
+        "Title": "Пасечник попросил Путина принять ЛНР в состав России",
+        "DateDoc": "28-09-2022 12-25",
+        "URL": "https://www.kommersant.ru/doc/5582945",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582935,
+        "Title": "Госдума скорректирует график работы из-за референдумов в Донбассе и проведет 3 октября пленарное заседание",
+        "DateDoc": "28-09-2022 12-21",
+        "URL": "https://www.kommersant.ru/doc/5582935",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582595,
+        "Title": "Согласование после голосования",
+        "DateDoc": "27-09-2022 23-56",
+        "URL": "https://www.kommersant.ru/doc/5582595",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582670,
+        "Title": "Мобилизационные каникулы",
+        "DateDoc": "27-09-2022 22-49",
+        "URL": "https://www.kommersant.ru/doc/5582670",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582662,
+        "Title": "Штат центрального аппарата «Роскосмоса» сократят на 10%",
+        "DateDoc": "27-09-2022 22-24",
+        "URL": "https://www.kommersant.ru/doc/5582662",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582630,
+        "Title": "Саратовские депутаты начали с себя",
+        "DateDoc": "27-09-2022 21-12",
+        "URL": "https://www.kommersant.ru/doc/5582630",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Деятельность мэров и региональных парламентов",
+                "Url": "https://www.kommersant.ru/theme/463",
+                "Type": 2,
+                "Id": 463
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582538,
+        "Title": "Битва за уважай",
+        "DateDoc": "27-09-2022 20-50",
+        "URL": "https://www.kommersant.ru/doc/5582538",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Андрей Колесников о Владимире Путине",
+                "Url": "https://www.kommersant.ru/theme/943",
+                "Type": 2,
+                "Id": 943
+            },
+            {
+                "Name": "Деятельность Владимира Путина",
+                "Url": "https://www.kommersant.ru/theme/2973",
+                "Type": 2,
+                "Id": 2973
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Сельское хозяйство",
+                "Url": "https://www.kommersant.ru/theme/2134",
+                "Type": 2,
+                "Id": 2134
+            },
+            {
+                "Name": "Андрей Колесников",
+                "Url": "https://www.kommersant.ru/authors/3",
+                "Type": 5,
+                "Id": 3
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582474,
+        "Title": "Совет федерации не будет проводить внеплановое заседание о присоединении новых субъектов",
+        "DateDoc": "27-09-2022 15-44",
+        "URL": "https://www.kommersant.ru/doc/5582474",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582427,
+        "Title": "В Конституционном суде образовалась вакансия после ухода Арановского",
+        "DateDoc": "27-09-2022 15-07",
+        "URL": "https://www.kommersant.ru/doc/5582427",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582407,
+        "Title": "Песков заявил о «кардинальных» правовых последствиях референдумов в Донбассе",
+        "DateDoc": "27-09-2022 13-58",
+        "URL": "https://www.kommersant.ru/doc/5582407",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582311,
+        "Title": "Еще двое депутатов попросились на военную операцию",
+        "DateDoc": "27-09-2022 11-49",
+        "URL": "https://www.kommersant.ru/doc/5582311",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582164,
+        "Title": "«Ведомости»: Рогозин может стать полпредом Крымского округа, в который войдут новые территории",
+        "DateDoc": "27-09-2022 03-41",
+        "URL": "https://www.kommersant.ru/doc/5582164",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582101,
+        "Title": "С явочным в порядке",
+        "DateDoc": "27-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582101",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Елена Рожкова",
+                "Url": "https://www.kommersant.ru/authors/896",
+                "Type": 5,
+                "Id": 896
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 3100487,
+        "Title": "«Шагай вперед, комсомольское племя!»",
+        "DateDoc": "27-09-2022 00-00",
+        "URL": "https://www.kommersant.ru/doc/3100487",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мультимедиа",
+                "Url": "https://www.kommersant.ru/specials",
+                "Type": 1,
+                "Id": 141
+            },
+            {
+                "Name": "Фотогалерея",
+                "Url": "https://www.kommersant.ru/specials/photo",
+                "Type": 1,
+                "Id": 18
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5582070,
+        "Title": "Мотивация к мобилизации",
+        "DateDoc": "26-09-2022 23-05",
+        "URL": "https://www.kommersant.ru/doc/5582070",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581951,
+        "Title": "Аксенов: после референдумов Россия фактически будет проводить контртеррористическую операцию на своей территории",
+        "DateDoc": "26-09-2022 17-58",
+        "URL": "https://www.kommersant.ru/doc/5581951",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581797,
+        "Title": "Песков не подтвердил послание Путина Федеральному собранию 30 сентября",
+        "DateDoc": "26-09-2022 14-05",
+        "URL": "https://www.kommersant.ru/doc/5581797",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581621,
+        "Title": "Евгений Пригожин рассказал, как создал «ЧВК Вагнера»",
+        "DateDoc": "26-09-2022 10-08",
+        "URL": "https://www.kommersant.ru/doc/5581621",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581344,
+        "Title": "Каждый второй кадр",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581344",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Деятельность мэров и региональных парламентов",
+                "Url": "https://www.kommersant.ru/theme/463",
+                "Type": 2,
+                "Id": 463
+            },
+            {
+                "Name": "Единый день голосования–2022",
+                "Url": "https://www.kommersant.ru/theme/3427",
+                "Type": 2,
+                "Id": 3427
+            },
+            {
+                "Name": "Андрей Прах",
+                "Url": "https://www.kommersant.ru/authors/867",
+                "Type": 5,
+                "Id": 867
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581306,
+        "Title": "Донбасс голосует по-стахановски",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581306",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581332,
+        "Title": "Депутаты вызывают призыв на себя",
+        "DateDoc": "25-09-2022 22-25",
+        "URL": "https://www.kommersant.ru/doc/5581332",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581070,
+        "Title": "«РИА Новости»: Путин может обратиться с посланием Федеральному собранию 30 сентября",
+        "DateDoc": "24-09-2022 20-35",
+        "URL": "https://www.kommersant.ru/doc/5581070",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5581014,
+        "Title": "Заместитель министра обороны Дмитрий Булгаков освобожден от должности",
+        "DateDoc": "24-09-2022 12-46",
+        "URL": "https://www.kommersant.ru/doc/5581014",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5580997,
+        "Title": "Глава Якутии потребовал вернуть обратно мобилизованных по ошибке",
+        "DateDoc": "24-09-2022 11-51",
+        "URL": "https://www.kommersant.ru/doc/5580997",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5580982,
+        "Title": "Пятый депутат Госдумы попросился на военную операцию",
+        "DateDoc": "24-09-2022 10-46",
+        "URL": "https://www.kommersant.ru/doc/5580982",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5580681,
+        "Title": "Определились на 20%",
+        "DateDoc": "23-09-2022 23-26",
+        "URL": "https://www.kommersant.ru/doc/5580681",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Елена Рожкова",
+                "Url": "https://www.kommersant.ru/authors/896",
+                "Type": 5,
+                "Id": 896
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177 от 24.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139290",
+                "Type": 6,
+                "Id": 139290
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5580650,
+        "Title": "Оппозиция перешла от практики к теории",
+        "DateDoc": "23-09-2022 22-03",
+        "URL": "https://www.kommersant.ru/doc/5580650",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Выборное законодательство",
+                "Url": "https://www.kommersant.ru/theme/130",
+                "Type": 2,
+                "Id": 130
+            },
+            {
+                "Name": "Оппозиция в России",
+                "Url": "https://www.kommersant.ru/theme/617",
+                "Type": 2,
+                "Id": 617
+            },
+            {
+                "Name": "Кира Хейфец",
+                "Url": "https://www.kommersant.ru/authors/893",
+                "Type": 5,
+                "Id": 893
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 2,
+        "MainTagTitle": "Политика",
+        "DocsId": 5580584,
+        "Title": "Путин проиндексировал себе зарплату",
+        "DateDoc": "23-09-2022 18-31",
+        "URL": "https://www.kommersant.ru/doc/5580584",
+        "Tags": [
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    }
+]

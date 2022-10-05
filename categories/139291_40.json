@@ -1,0 +1,1858 @@
+[
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581308,
+        "Title": "Очередь за бронью",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581308",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Анастасия Мануйлова",
+                "Url": "https://www.kommersant.ru/authors/605",
+                "Type": 5,
+                "Id": 605
+            },
+            {
+                "Name": "Вадим Вислогузов",
+                "Url": "https://www.kommersant.ru/authors/52",
+                "Type": 5,
+                "Id": 52
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581332,
+        "Title": "Депутаты вызывают призыв на себя",
+        "DateDoc": "25-09-2022 22-25",
+        "URL": "https://www.kommersant.ru/doc/5581332",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Госдума РФ в действии",
+                "Url": "https://www.kommersant.ru/theme/589",
+                "Type": 2,
+                "Id": 589
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Ксения Веретенникова",
+                "Url": "https://www.kommersant.ru/authors/886",
+                "Type": 5,
+                "Id": 886
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581347,
+        "Title": "Повестки не укладываются в микросхемы",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581347",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581348,
+        "Title": "С «Миру» по нитке",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581348",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Функционирование платежных систем, терминалов и агентов",
+                "Url": "https://www.kommersant.ru/theme/2017",
+                "Type": 2,
+                "Id": 2017
+            },
+            {
+                "Name": "Максим Буйлов",
+                "Url": "https://www.kommersant.ru/authors/196",
+                "Type": 5,
+                "Id": 196
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581349,
+        "Title": "На уголь еще навалят",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581349",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Налоговая политика России и деятельность ФНС",
+                "Url": "https://www.kommersant.ru/theme/391",
+                "Type": 2,
+                "Id": 391
+            },
+            {
+                "Name": "НДПИ",
+                "Url": "https://www.kommersant.ru/theme/2816",
+                "Type": 2,
+                "Id": 2816
+            },
+            {
+                "Name": "Дмитрий Козлов",
+                "Url": "https://www.kommersant.ru/authors/593",
+                "Type": 5,
+                "Id": 593
+            },
+            {
+                "Name": "Евгений Зайнуллин",
+                "Url": "https://www.kommersant.ru/authors/876",
+                "Type": 5,
+                "Id": 876
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581312,
+        "Title": "Федерализация долгостроев",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581312",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Строительная отрасль",
+                "Url": "https://www.kommersant.ru/theme/2640",
+                "Type": 2,
+                "Id": 2640
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581345,
+        "Title": "Упражнение со многими неизвестными",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581345",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Валютный рынок",
+                "Url": "https://www.kommersant.ru/theme/416",
+                "Type": 2,
+                "Id": 416
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581346,
+        "Title": "Деловая активность ЕС указывает на рецессию",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581346",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Татьяна Едовина",
+                "Url": "https://www.kommersant.ru/authors/603",
+                "Type": 5,
+                "Id": 603
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581353,
+        "Title": "Сегодняшнее число",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581353",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581306,
+        "Title": "Донбасс голосует по-стахановски",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581306",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Анастасия Корня",
+                "Url": "https://www.kommersant.ru/authors/942",
+                "Type": 5,
+                "Id": 942
+            },
+            {
+                "Name": "Мария Макутина",
+                "Url": "https://www.kommersant.ru/authors/496",
+                "Type": 5,
+                "Id": 496
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581344,
+        "Title": "Каждый второй кадр",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581344",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 3",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Деятельность мэров и региональных парламентов",
+                "Url": "https://www.kommersant.ru/theme/463",
+                "Type": 2,
+                "Id": 463
+            },
+            {
+                "Name": "Единый день голосования–2022",
+                "Url": "https://www.kommersant.ru/theme/3427",
+                "Type": 2,
+                "Id": 3427
+            },
+            {
+                "Name": "Андрей Прах",
+                "Url": "https://www.kommersant.ru/authors/867",
+                "Type": 5,
+                "Id": 867
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5572355,
+        "Title": "Просто забрали свои миллионы",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5572355",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            },
+            {
+                "Name": "Борьба с мошенничеством и хищениями",
+                "Url": "https://www.kommersant.ru/theme/1855",
+                "Type": 2,
+                "Id": 1855
+            },
+            {
+                "Name": "Олег Рубникович",
+                "Url": "https://www.kommersant.ru/authors/101",
+                "Type": 5,
+                "Id": 101
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581300,
+        "Title": "Хищение прошло по «Высокому стандарту»",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581300",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            },
+            {
+                "Name": "Борьба с мошенничеством и хищениями",
+                "Url": "https://www.kommersant.ru/theme/1855",
+                "Type": 2,
+                "Id": 1855
+            },
+            {
+                "Name": "Владислав Трифонов",
+                "Url": "https://www.kommersant.ru/authors/103",
+                "Type": 5,
+                "Id": 103
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581343,
+        "Title": "Бизнесмену оставили срок и вернули машино-место",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581343",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            },
+            {
+                "Name": "Борьба с мошенничеством и хищениями",
+                "Url": "https://www.kommersant.ru/theme/1855",
+                "Type": 2,
+                "Id": 1855
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581356,
+        "Title": "У подрядчика нашли признаки фиктивности",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581356",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 4",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Происшествия",
+                "Url": "https://www.kommersant.ru/rubric/6",
+                "Type": 1,
+                "Id": 6
+            },
+            {
+                "Name": "Борьба с мошенничеством и хищениями",
+                "Url": "https://www.kommersant.ru/theme/1855",
+                "Type": 2,
+                "Id": 1855
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581313,
+        "Title": "Кинотаврозамещение",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581313",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Светская жизнь",
+                "Url": "https://www.kommersant.ru/theme/2236",
+                "Type": 2,
+                "Id": 2236
+            },
+            {
+                "Name": "Евгения Милова",
+                "Url": "https://www.kommersant.ru/authors/40",
+                "Type": 5,
+                "Id": 40
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581322,
+        "Title": "К читателям газеты «Коммерсантъ»",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581322",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581335,
+        "Title": "Губернаторы присмотрелись к военным комиссарам",
+        "DateDoc": "25-09-2022 22-49",
+        "URL": "https://www.kommersant.ru/doc/5581335",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Все о губернаторах и главах регионов",
+                "Url": "https://www.kommersant.ru/theme/281",
+                "Type": 2,
+                "Id": 281
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Александр Дремлюгин",
+                "Url": "https://www.kommersant.ru/authors/907",
+                "Type": 5,
+                "Id": 907
+            },
+            {
+                "Name": "Сергей Толмачев",
+                "Url": "https://www.kommersant.ru/authors/910",
+                "Type": 5,
+                "Id": 910
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581341,
+        "Title": "Не с первой пытки",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581341",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 5",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Деятельность правозащитников",
+                "Url": "https://www.kommersant.ru/theme/890",
+                "Type": 2,
+                "Id": 890
+            },
+            {
+                "Name": "Оборотни в погонах",
+                "Url": "https://www.kommersant.ru/theme/12",
+                "Type": 2,
+                "Id": 12
+            },
+            {
+                "Name": "Обстановка на Северном Кавказе",
+                "Url": "https://www.kommersant.ru/theme/2042",
+                "Type": 2,
+                "Id": 2042
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581157,
+        "Title": "Угрозовый фронт",
+        "DateDoc": "25-09-2022 21-31",
+        "URL": "https://www.kommersant.ru/doc/5581157",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 6",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "ООН и ее отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/247",
+                "Type": 2,
+                "Id": 247
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Референдумы в ЛДНР, Херсонской и Запорожской областях",
+                "Url": "https://www.kommersant.ru/theme/3447",
+                "Type": 2,
+                "Id": 3447
+            },
+            {
+                "Name": "Алексей Забродин",
+                "Url": "https://www.kommersant.ru/authors/984",
+                "Type": 5,
+                "Id": 984
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581265,
+        "Title": "Сербия будет «приспосабливаться и выкручиваться»",
+        "DateDoc": "25-09-2022 21-05",
+        "URL": "https://www.kommersant.ru/doc/5581265",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 6",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Все о Европе",
+                "Url": "https://www.kommersant.ru/theme/3172",
+                "Type": 2,
+                "Id": 3172
+            },
+            {
+                "Name": "Санкции против России",
+                "Url": "https://www.kommersant.ru/theme/2036",
+                "Type": 2,
+                "Id": 2036
+            },
+            {
+                "Name": "Сербия и независимость Косово",
+                "Url": "https://www.kommersant.ru/theme/381",
+                "Type": 2,
+                "Id": 381
+            },
+            {
+                "Name": "Геннадий Сысоев",
+                "Url": "https://www.kommersant.ru/authors/89",
+                "Type": 5,
+                "Id": 89
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581291,
+        "Title": "Дроны ударили по послу Ирана",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581291",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 6",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Все о Ближнем Востоке",
+                "Url": "https://www.kommersant.ru/theme/3174",
+                "Type": 2,
+                "Id": 3174
+            },
+            {
+                "Name": "Иран. Отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/425",
+                "Type": 2,
+                "Id": 425
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Марианна Беленькая",
+                "Url": "https://www.kommersant.ru/authors/823",
+                "Type": 5,
+                "Id": 823
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5580562,
+        "Title": "Оформление опыта",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5580562",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581205,
+        "Title": "Видеоигры пошли на вылет",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581205",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "Рынок гейминга и киберспорта",
+                "Url": "https://www.kommersant.ru/theme/3252",
+                "Type": 2,
+                "Id": 3252
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Никита Королев",
+                "Url": "https://www.kommersant.ru/authors/903",
+                "Type": 5,
+                "Id": 903
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581214,
+        "Title": "Такси прощается с Toyota",
+        "DateDoc": "25-09-2022 19-43",
+        "URL": "https://www.kommersant.ru/doc/5581214",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Авто",
+                "Url": "https://www.kommersant.ru/rubric/68",
+                "Type": 1,
+                "Id": 68
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Автомобильный рынок",
+                "Url": "https://www.kommersant.ru/theme/88",
+                "Type": 2,
+                "Id": 88
+            },
+            {
+                "Name": "Продажи автомобилей в России",
+                "Url": "https://www.kommersant.ru/theme/1277",
+                "Type": 2,
+                "Id": 1277
+            },
+            {
+                "Name": "Ольга Никитина",
+                "Url": "https://www.kommersant.ru/authors/744",
+                "Type": 5,
+                "Id": 744
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581340,
+        "Title": "Метанол застрял в России",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581340",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Химическая промышленность",
+                "Url": "https://www.kommersant.ru/theme/2785",
+                "Type": 2,
+                "Id": 2785
+            },
+            {
+                "Name": "Ольга Мордюшенко",
+                "Url": "https://www.kommersant.ru/authors/67",
+                "Type": 5,
+                "Id": 67
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581357,
+        "Title": "Индексы ведущих фондовых бирж 23.09.22",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581357",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581358,
+        "Title": "Официальные курсы ЦБ России на 24–26.09.2022",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581358",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581202,
+        "Title": "Квартиры заселяются без ремонта",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581202",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Ипотека",
+                "Url": "https://www.kommersant.ru/theme/493",
+                "Type": 2,
+                "Id": 493
+            },
+            {
+                "Name": "Кредитный рынок",
+                "Url": "https://www.kommersant.ru/theme/2099",
+                "Type": 2,
+                "Id": 2099
+            },
+            {
+                "Name": "Дарья Андрианова",
+                "Url": "https://www.kommersant.ru/authors/914",
+                "Type": 5,
+                "Id": 914
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581215,
+        "Title": "Ставки разошлись с ценой",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581215",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Кредитный рынок",
+                "Url": "https://www.kommersant.ru/theme/2099",
+                "Type": 2,
+                "Id": 2099
+            },
+            {
+                "Name": "Полина Трифонова",
+                "Url": "https://www.kommersant.ru/authors/913",
+                "Type": 5,
+                "Id": 913
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581339,
+        "Title": "Банки избавляются от долгов",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581339",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 8",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Деятельность банков",
+                "Url": "https://www.kommersant.ru/theme/196",
+                "Type": 2,
+                "Id": 196
+            },
+            {
+                "Name": "Ольга Шерункова",
+                "Url": "https://www.kommersant.ru/authors/912",
+                "Type": 5,
+                "Id": 912
+            },
+            {
+                "Name": "Полина Трифонова",
+                "Url": "https://www.kommersant.ru/authors/913",
+                "Type": 5,
+                "Id": 913
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5546975,
+        "Title": "Дни рождения",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5546975",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 9",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581262,
+        "Title": "Кировский завод продает турбины",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581262",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 9",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Бизнес",
+                "Url": "https://www.kommersant.ru/rubric/4",
+                "Type": 1,
+                "Id": 4
+            },
+            {
+                "Name": "Атомная энергетика",
+                "Url": "https://www.kommersant.ru/theme/1799",
+                "Type": 2,
+                "Id": 1799
+            },
+            {
+                "Name": "Полина Смертина",
+                "Url": "https://www.kommersant.ru/authors/757",
+                "Type": 5,
+                "Id": 757
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581338,
+        "Title": "Котировки падают хором",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581338",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 9",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Фондовый рынок",
+                "Url": "https://www.kommersant.ru/theme/137",
+                "Type": 2,
+                "Id": 137
+            },
+            {
+                "Name": "Виталий Гайдаев",
+                "Url": "https://www.kommersant.ru/authors/153",
+                "Type": 5,
+                "Id": 153
+            },
+            {
+                "Name": "Дмитрий Ладыгин",
+                "Url": "https://www.kommersant.ru/authors/156",
+                "Type": 5,
+                "Id": 156
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581199,
+        "Title": "Mantera отдохнет в Звенигороде",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581199",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Недвижимость. Сделки",
+                "Url": "https://www.kommersant.ru/theme/3255",
+                "Type": 2,
+                "Id": 3255
+            },
+            {
+                "Name": "Александра Мерцалова",
+                "Url": "https://www.kommersant.ru/authors/652",
+                "Type": 5,
+                "Id": 652
+            },
+            {
+                "Name": "Анатолий Костырев",
+                "Url": "https://www.kommersant.ru/authors/739",
+                "Type": 5,
+                "Id": 739
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581200,
+        "Title": "Частные клиники нацелились на ДМС",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581200",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Здоровье и здравоохранение",
+                "Url": "https://www.kommersant.ru/theme/476",
+                "Type": 2,
+                "Id": 476
+            },
+            {
+                "Name": "Полина Гриценко",
+                "Url": "https://www.kommersant.ru/authors/976",
+                "Type": 5,
+                "Id": 976
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581212,
+        "Title": "«Астра» зацветает в Китае",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581212",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 10",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Телекоммуникации",
+                "Url": "https://www.kommersant.ru/rubric/138",
+                "Type": 1,
+                "Id": 138
+            },
+            {
+                "Name": "IT-рынок",
+                "Url": "https://www.kommersant.ru/theme/1225",
+                "Type": 2,
+                "Id": 1225
+            },
+            {
+                "Name": "Тимофей Корнев",
+                "Url": "https://www.kommersant.ru/authors/983",
+                "Type": 5,
+                "Id": 983
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581162,
+        "Title": "Невысокая «Материя»",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581162",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 11",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Культура",
+                "Url": "https://www.kommersant.ru/rubric/8",
+                "Type": 1,
+                "Id": 8
+            },
+            {
+                "Name": "Балет",
+                "Url": "https://www.kommersant.ru/theme/123",
+                "Type": 2,
+                "Id": 123
+            },
+            {
+                "Name": "Все о театре",
+                "Url": "https://www.kommersant.ru/theme/3169",
+                "Type": 2,
+                "Id": 3169
+            },
+            {
+                "Name": "Татьяна Кузнецова",
+                "Url": "https://www.kommersant.ru/authors/128",
+                "Type": 5,
+                "Id": 128
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581163,
+        "Title": "Молодая раковина",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581163",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 11",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Культура",
+                "Url": "https://www.kommersant.ru/rubric/8",
+                "Type": 1,
+                "Id": 8
+            },
+            {
+                "Name": "Все о кино",
+                "Url": "https://www.kommersant.ru/theme/3167",
+                "Type": 2,
+                "Id": 3167
+            },
+            {
+                "Name": "Кинофестивали",
+                "Url": "https://www.kommersant.ru/theme/357",
+                "Type": 2,
+                "Id": 357
+            },
+            {
+                "Name": "Андрей Плахов",
+                "Url": "https://www.kommersant.ru/authors/133",
+                "Type": 5,
+                "Id": 133
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 6,
+        "MainTagId": 139291,
+        "MainTagTitle": "Газета «Коммерсантъ» №177/П от 26.09.2022",
+        "DocsId": 5581146,
+        "Title": "Армейцев вывели из недвижимости",
+        "DateDoc": "25-09-2022 14-40",
+        "URL": "https://www.kommersant.ru/doc/5581146",
+        "Tags": [
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 12",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Спорт",
+                "Url": "https://www.kommersant.ru/rubric/9",
+                "Type": 1,
+                "Id": 9
+            },
+            {
+                "Name": "Футбол",
+                "Url": "https://www.kommersant.ru/theme/3067",
+                "Type": 2,
+                "Id": 3067
+            },
+            {
+                "Name": "Футбол. Покупка и продажа клубов",
+                "Url": "https://www.kommersant.ru/theme/622",
+                "Type": 2,
+                "Id": 622
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    }
+]

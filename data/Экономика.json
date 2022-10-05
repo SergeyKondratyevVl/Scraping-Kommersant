@@ -1,0 +1,3616 @@
+[
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583439,
+        "Title": "Россия может передать долги других стран неподсанкционным лицам",
+        "DateDoc": "29-09-2022 08-37",
+        "URL": "https://www.kommersant.ru/doc/5583439",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Финансы",
+                "Url": "https://www.kommersant.ru/finance",
+                "Type": 1,
+                "Id": 40
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583352,
+        "Title": "Август не нашел аргументов для роста",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583352",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583246,
+        "Title": "Самозанятым прописывают самолечение",
+        "DateDoc": "29-09-2022 01-05",
+        "URL": "https://www.kommersant.ru/doc/5583246",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Здоровье и здравоохранение",
+                "Url": "https://www.kommersant.ru/theme/476",
+                "Type": 2,
+                "Id": 476
+            },
+            {
+                "Name": "Рынок труда в России",
+                "Url": "https://www.kommersant.ru/theme/1280",
+                "Type": 2,
+                "Id": 1280
+            },
+            {
+                "Name": "Анастасия Мануйлова",
+                "Url": "https://www.kommersant.ru/authors/605",
+                "Type": 5,
+                "Id": 605
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583361,
+        "Title": "Что предлагает страховать Минтруд",
+        "DateDoc": "29-09-2022 00-57",
+        "URL": "https://www.kommersant.ru/doc/5583361",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Анастасия Мануйлова",
+                "Url": "https://www.kommersant.ru/authors/605",
+                "Type": 5,
+                "Id": 605
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583351,
+        "Title": "Расписанному — верить",
+        "DateDoc": "28-09-2022 23-52",
+        "URL": "https://www.kommersant.ru/doc/5583351",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583315,
+        "Title": "Минэкономики зафиксировало в августе замедление спада ВВП до 4,1%",
+        "DateDoc": "28-09-2022 21-43",
+        "URL": "https://www.kommersant.ru/doc/5583315",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583297,
+        "Title": "Скупка вместо продажи",
+        "DateDoc": "28-09-2022 21-02",
+        "URL": "https://www.kommersant.ru/doc/5583297",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Великобритания. Ситуация в стране",
+                "Url": "https://www.kommersant.ru/theme/557",
+                "Type": 2,
+                "Id": 557
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Татьяна Едовина",
+                "Url": "https://www.kommersant.ru/authors/603",
+                "Type": 5,
+                "Id": 603
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №180 от 29.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139294",
+                "Type": 6,
+                "Id": 139294
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583241,
+        "Title": "Минэкономики спрогнозировало цену в $70,1 за баррель Urals в 2023 году",
+        "DateDoc": "28-09-2022 19-46",
+        "URL": "https://www.kommersant.ru/doc/5583241",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583238,
+        "Title": "Минфин не включил в проект бюджета на 2023-2025 годы туристический кэшбек",
+        "DateDoc": "28-09-2022 18-43",
+        "URL": "https://www.kommersant.ru/doc/5583238",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583212,
+        "Title": "ЕБРР значительно снизил прогноз роста ВВП Украины в 2023 году",
+        "DateDoc": "28-09-2022 18-03",
+        "URL": "https://www.kommersant.ru/doc/5583212",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583211,
+        "Title": "Минфин может возобновить покупку валюты в 2023 году",
+        "DateDoc": "28-09-2022 17-48",
+        "URL": "https://www.kommersant.ru/doc/5583211",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583131,
+        "Title": "Минфин предложил повысить налог на прибыль для экспортеров СПГ до 32%",
+        "DateDoc": "28-09-2022 16-56",
+        "URL": "https://www.kommersant.ru/doc/5583131",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5583157,
+        "Title": "Электроэнергия может подорожать для россиян на 6% с июля 2024 года",
+        "DateDoc": "28-09-2022 16-43",
+        "URL": "https://www.kommersant.ru/doc/5583157",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582939,
+        "Title": "В Госдуму передан проект федерального бюджета на 2023–2025 годы",
+        "DateDoc": "28-09-2022 12-23",
+        "URL": "https://www.kommersant.ru/doc/5582939",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582849,
+        "Title": "Ялтинский форум перенесли на первую половину 2023 года",
+        "DateDoc": "28-09-2022 10-25",
+        "URL": "https://www.kommersant.ru/doc/5582849",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582700,
+        "Title": "Оптовые цены намерены расти",
+        "DateDoc": "28-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582700",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582699,
+        "Title": "Творцам нужны льготы и оборудование",
+        "DateDoc": "28-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582699",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Защита интересов предпринимателей",
+                "Url": "https://www.kommersant.ru/theme/1166",
+                "Type": 2,
+                "Id": 1166
+            },
+            {
+                "Name": "Венера Петрова",
+                "Url": "https://www.kommersant.ru/authors/943",
+                "Type": 5,
+                "Id": 943
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582698,
+        "Title": "Защищает от ветра, но в ливень может убить",
+        "DateDoc": "28-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582698",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582646,
+        "Title": "Госземли уводят от оценки",
+        "DateDoc": "28-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582646",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Земельное законодательство и кадастровые работы",
+                "Url": "https://www.kommersant.ru/theme/2753",
+                "Type": 2,
+                "Id": 2753
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №179 от 28.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139293",
+                "Type": 6,
+                "Id": 139293
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582614,
+        "Title": "Украина запретила экспорт товаров в Россию на законодательном уровне",
+        "DateDoc": "27-09-2022 20-44",
+        "URL": "https://www.kommersant.ru/doc/5582614",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Анастасия Ларина",
+                "Url": "https://www.kommersant.ru/authors/972",
+                "Type": 5,
+                "Id": 972
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582583,
+        "Title": "Goldman Sachs ждет от ЕЦБ повышения учетной ставки еще на 0,75%",
+        "DateDoc": "27-09-2022 20-02",
+        "URL": "https://www.kommersant.ru/doc/5582583",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582435,
+        "Title": "Госдума приняла закон об освобождении семей мобилизованных от пеней по ЖКХ",
+        "DateDoc": "27-09-2022 14-45",
+        "URL": "https://www.kommersant.ru/doc/5582435",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582419,
+        "Title": "Госдума приняла закон о сохранении рабочих мест за мобилизованными",
+        "DateDoc": "27-09-2022 14-23",
+        "URL": "https://www.kommersant.ru/doc/5582419",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582409,
+        "Title": "Путин назвал ситуацию с зерновой сделкой надувательством",
+        "DateDoc": "27-09-2022 13-52",
+        "URL": "https://www.kommersant.ru/doc/5582409",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Мировой продовольственный кризис",
+                "Url": "https://www.kommersant.ru/theme/3434",
+                "Type": 2,
+                "Id": 3434
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582387,
+        "Title": "К 2030 году самой распространенной причиной для больничного может стать депрессия",
+        "DateDoc": "27-09-2022 13-32",
+        "URL": "https://www.kommersant.ru/doc/5582387",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582240,
+        "Title": "Минфин предложил повысить минимальную цену на водку и коньяк",
+        "DateDoc": "27-09-2022 09-45",
+        "URL": "https://www.kommersant.ru/doc/5582240",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Потребительский рынок",
+                "Url": "https://www.kommersant.ru/rubric/41",
+                "Type": 1,
+                "Id": 41
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582236,
+        "Title": "Минтруд разъяснил работодателям, что делать в случае мобилизации сотрудников",
+        "DateDoc": "27-09-2022 09-43",
+        "URL": "https://www.kommersant.ru/doc/5582236",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582227,
+        "Title": "РБК: Минфин предложил взимать налог по кадастру со всей недвижимости бизнеса",
+        "DateDoc": "27-09-2022 09-15",
+        "URL": "https://www.kommersant.ru/doc/5582227",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582100,
+        "Title": "«Электронным» технопаркам оплатят инфраструктуру",
+        "DateDoc": "27-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582100",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Рынок микроэлектроники",
+                "Url": "https://www.kommersant.ru/theme/2904",
+                "Type": 2,
+                "Id": 2904
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582099,
+        "Title": "Вот новый разворот",
+        "DateDoc": "27-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582099",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582029,
+        "Title": "Устав государственной инвестиционной службы",
+        "DateDoc": "27-09-2022 00-58",
+        "URL": "https://www.kommersant.ru/doc/5582029",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Олег Сапожков",
+                "Url": "https://www.kommersant.ru/authors/326",
+                "Type": 5,
+                "Id": 326
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5582076,
+        "Title": "Рост пошел на спад",
+        "DateDoc": "26-09-2022 21-59",
+        "URL": "https://www.kommersant.ru/doc/5582076",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика ВВП России",
+                "Url": "https://www.kommersant.ru/theme/400",
+                "Type": 2,
+                "Id": 400
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №178 от 27.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139292",
+                "Type": 6,
+                "Id": 139292
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581855,
+        "Title": "Россия приостановила  налоговое соглашение с Латвией",
+        "DateDoc": "26-09-2022 15-25",
+        "URL": "https://www.kommersant.ru/doc/5581855",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581729,
+        "Title": "ОЭСР улучшила прогноз по снижению ВВП России в 2022 году",
+        "DateDoc": "26-09-2022 12-21",
+        "URL": "https://www.kommersant.ru/doc/5581729",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581698,
+        "Title": "Мишустин продлил льготный перевод сотрудников ушедших из России компаний",
+        "DateDoc": "26-09-2022 11-55",
+        "URL": "https://www.kommersant.ru/doc/5581698",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Рынок труда в России",
+                "Url": "https://www.kommersant.ru/theme/1280",
+                "Type": 2,
+                "Id": 1280
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581679,
+        "Title": "Правительство пообещало сохранить рабочие места за мобилизованными и предоставить им гарантии",
+        "DateDoc": "26-09-2022 11-29",
+        "URL": "https://www.kommersant.ru/doc/5581679",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581594,
+        "Title": "Губернатор Хабаровского края поручил расширить список системообразующих предприятий",
+        "DateDoc": "26-09-2022 09-43",
+        "URL": "https://www.kommersant.ru/doc/5581594",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581346,
+        "Title": "Деловая активность ЕС указывает на рецессию",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581346",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Татьяна Едовина",
+                "Url": "https://www.kommersant.ru/authors/603",
+                "Type": 5,
+                "Id": 603
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581345,
+        "Title": "Упражнение со многими неизвестными",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581345",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Валютный рынок",
+                "Url": "https://www.kommersant.ru/theme/416",
+                "Type": 2,
+                "Id": 416
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581312,
+        "Title": "Федерализация долгостроев",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581312",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Строительная отрасль",
+                "Url": "https://www.kommersant.ru/theme/2640",
+                "Type": 2,
+                "Id": 2640
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581308,
+        "Title": "Очередь за бронью",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5581308",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Анастасия Мануйлова",
+                "Url": "https://www.kommersant.ru/authors/605",
+                "Type": 5,
+                "Id": 605
+            },
+            {
+                "Name": "Вадим Вислогузов",
+                "Url": "https://www.kommersant.ru/authors/52",
+                "Type": 5,
+                "Id": 52
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580562,
+        "Title": "Оформление опыта",
+        "DateDoc": "26-09-2022 01-17",
+        "URL": "https://www.kommersant.ru/doc/5580562",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177/П от 26.09.2022, стр. 7",
+                "Url": "https://www.kommersant.ru/daily/139291",
+                "Type": 6,
+                "Id": 139291
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5581049,
+        "Title": "Путин увеличил срок подачи проекта бюджета в парламент",
+        "DateDoc": "24-09-2022 16-10",
+        "URL": "https://www.kommersant.ru/doc/5581049",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580690,
+        "Title": "Социальный фонд направит в 2023 году больше 9,5 трлн руб. на пенсии",
+        "DateDoc": "23-09-2022 23-45",
+        "URL": "https://www.kommersant.ru/doc/5580690",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580667,
+        "Title": "«Коммуналка» подорожает досрочно",
+        "DateDoc": "23-09-2022 23-04",
+        "URL": "https://www.kommersant.ru/doc/5580667",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Деятельность ЖКХ",
+                "Url": "https://www.kommersant.ru/theme/25",
+                "Type": 2,
+                "Id": 25
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №177 от 24.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139290",
+                "Type": 6,
+                "Id": 139290
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580600,
+        "Title": "Минэкономики объявило о повторной индексации тарифов ЖКУ в 2022 году",
+        "DateDoc": "23-09-2022 19-07",
+        "URL": "https://www.kommersant.ru/doc/5580600",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580515,
+        "Title": "В Госдуму внесут законопроект, выводящий из-под налогов гуманитарную помощь Донбассу",
+        "DateDoc": "23-09-2022 16-36",
+        "URL": "https://www.kommersant.ru/doc/5580515",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580500,
+        "Title": "Россияне демонстрируют повышенный спрос на наличные",
+        "DateDoc": "23-09-2022 16-21",
+        "URL": "https://www.kommersant.ru/doc/5580500",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5580428,
+        "Title": "«Единая Россия» внесла в Госдуму поправки о сохранении рабочих мест за мобилизованными",
+        "DateDoc": "23-09-2022 14-10",
+        "URL": "https://www.kommersant.ru/doc/5580428",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Политика",
+                "Url": "https://www.kommersant.ru/rubric/2",
+                "Type": 1,
+                "Id": 2
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5576926,
+        "Title": "Число выездных налоговых проверок в РФ сократилось в 7 раз при росте доначислений в 10 раз",
+        "DateDoc": "23-09-2022 13-20",
+        "URL": "https://www.kommersant.ru/doc/5576926",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Налоговая политика России и деятельность ФНС",
+                "Url": "https://www.kommersant.ru/theme/391",
+                "Type": 2,
+                "Id": 391
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572759,
+        "Title": "Правительство выделило полтриллиона рублей на защиту финансовой устойчивости",
+        "DateDoc": "23-09-2022 11-39",
+        "URL": "https://www.kommersant.ru/doc/5572759",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Управление Фондом национального благосостояния",
+                "Url": "https://www.kommersant.ru/theme/1851",
+                "Type": 2,
+                "Id": 1851
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572662,
+        "Title": "Ряд предприятий в Белгородской области будет перечислять зарплату мобилизованных их семьям",
+        "DateDoc": "23-09-2022 09-06",
+        "URL": "https://www.kommersant.ru/doc/5572662",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572570,
+        "Title": "Какие еще проблемы обнаружились в госзакупках",
+        "DateDoc": "23-09-2022 06-25",
+        "URL": "https://www.kommersant.ru/doc/5572570",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Госзакупки",
+                "Url": "https://www.kommersant.ru/theme/1473",
+                "Type": 2,
+                "Id": 1473
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572558,
+        "Title": "Неформальная занятость тает числом, но растет в деньгах",
+        "DateDoc": "23-09-2022 01-16",
+        "URL": "https://www.kommersant.ru/doc/5572558",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Рынок труда в России",
+                "Url": "https://www.kommersant.ru/theme/1280",
+                "Type": 2,
+                "Id": 1280
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №176 от 23.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139289",
+                "Type": 6,
+                "Id": 139289
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572554,
+        "Title": "Жилье извлекают из конкурсной массы",
+        "DateDoc": "23-09-2022 01-16",
+        "URL": "https://www.kommersant.ru/doc/5572554",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Банкротство физлиц",
+                "Url": "https://www.kommersant.ru/theme/2291",
+                "Type": 2,
+                "Id": 2291
+            },
+            {
+                "Name": "Недвижимость. Аналитика",
+                "Url": "https://www.kommersant.ru/theme/2566",
+                "Type": 2,
+                "Id": 2566
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №176 от 23.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139289",
+                "Type": 6,
+                "Id": 139289
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572508,
+        "Title": "Госзаказ теряет привлекательность",
+        "DateDoc": "23-09-2022 01-16",
+        "URL": "https://www.kommersant.ru/doc/5572508",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Антимонопольное регулирование",
+                "Url": "https://www.kommersant.ru/theme/1882",
+                "Type": 2,
+                "Id": 1882
+            },
+            {
+                "Name": "Госзакупки",
+                "Url": "https://www.kommersant.ru/theme/1473",
+                "Type": 2,
+                "Id": 1473
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №176 от 23.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139289",
+                "Type": 6,
+                "Id": 139289
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572551,
+        "Title": "Бюджет по отложенным правилам",
+        "DateDoc": "22-09-2022 23-00",
+        "URL": "https://www.kommersant.ru/doc/5572551",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Вадим Вислогузов",
+                "Url": "https://www.kommersant.ru/authors/52",
+                "Type": 5,
+                "Id": 52
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №176 от 23.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139289",
+                "Type": 6,
+                "Id": 139289
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572389,
+        "Title": "В федеральный бюджет на три года заложили 2,2 трлн рублей дивидендов",
+        "DateDoc": "22-09-2022 18-03",
+        "URL": "https://www.kommersant.ru/doc/5572389",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572366,
+        "Title": "Правительство решило полностью покрыть дефицит бюджета в 2023 году средствами ФНБ",
+        "DateDoc": "22-09-2022 17-55",
+        "URL": "https://www.kommersant.ru/doc/5572366",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Управление Фондом национального благосостояния",
+                "Url": "https://www.kommersant.ru/theme/1851",
+                "Type": 2,
+                "Id": 1851
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572353,
+        "Title": "Минтруд предложил проиндексировать МРОТ почти на 17%",
+        "DateDoc": "22-09-2022 16-56",
+        "URL": "https://www.kommersant.ru/doc/5572353",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572315,
+        "Title": "ЦБ Турции снизил ключевую ставку до 12%",
+        "DateDoc": "22-09-2022 16-09",
+        "URL": "https://www.kommersant.ru/doc/5572315",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Все о Ближнем Востоке",
+                "Url": "https://www.kommersant.ru/theme/3174",
+                "Type": 2,
+                "Id": 3174
+            },
+            {
+                "Name": "Турция и ее отношения с миром",
+                "Url": "https://www.kommersant.ru/theme/1201",
+                "Type": 2,
+                "Id": 1201
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572294,
+        "Title": "Бюджет России на ближайшие три года будет дефицитным",
+        "DateDoc": "22-09-2022 15-06",
+        "URL": "https://www.kommersant.ru/doc/5572294",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Леонид Уварчев",
+                "Url": "https://www.kommersant.ru/authors/883",
+                "Type": 5,
+                "Id": 883
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572255,
+        "Title": "Центробанк Швейцарии повысил учетную ставку до 0,5%",
+        "DateDoc": "22-09-2022 14-42",
+        "URL": "https://www.kommersant.ru/doc/5572255",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Яна Рождественская",
+                "Url": "https://www.kommersant.ru/authors/577",
+                "Type": 5,
+                "Id": 577
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572266,
+        "Title": "Правительство подтвердило планы изъять допдоходы у производителей СПГ и удобрений",
+        "DateDoc": "22-09-2022 14-33",
+        "URL": "https://www.kommersant.ru/doc/5572266",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5572262,
+        "Title": "Правительство введет универсальное пособие для малоимущих семей с 2023 года",
+        "DateDoc": "22-09-2022 14-29",
+        "URL": "https://www.kommersant.ru/doc/5572262",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571946,
+        "Title": "Росстат отстает от ЦБ в оценке потребнастроений граждан",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571946",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571945,
+        "Title": "Кругом рядовые, а я инвестор",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571945",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571944,
+        "Title": "Труд особой ценности",
+        "DateDoc": "22-09-2022 02-06",
+        "URL": "https://www.kommersant.ru/doc/5571944",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Рынок труда в России",
+                "Url": "https://www.kommersant.ru/theme/1280",
+                "Type": 2,
+                "Id": 1280
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571899,
+        "Title": "Опять семьдесят пять",
+        "DateDoc": "21-09-2022 23-53",
+        "URL": "https://www.kommersant.ru/doc/5571899",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Татьяна Едовина",
+                "Url": "https://www.kommersant.ru/authors/603",
+                "Type": 5,
+                "Id": 603
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №175 от 22.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139288",
+                "Type": 6,
+                "Id": 139288
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571891,
+        "Title": "ФРС повысила базовую ставку до 3–3,25% годовых",
+        "DateDoc": "21-09-2022 21-02",
+        "URL": "https://www.kommersant.ru/doc/5571891",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571838,
+        "Title": "Недельная дефляция в России сохранилась на уровне 0,03%",
+        "DateDoc": "21-09-2022 19-18",
+        "URL": "https://www.kommersant.ru/doc/5571838",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мария Федотова",
+                "Url": "https://www.kommersant.ru/authors/712",
+                "Type": 5,
+                "Id": 712
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571779,
+        "Title": "Путин заявил о планах достичь дефицита госбюджета в 0,7% к 2024 году",
+        "DateDoc": "21-09-2022 17-30",
+        "URL": "https://www.kommersant.ru/doc/5571779",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571705,
+        "Title": "Проценты по госдолгу Великобритании достигли рекордного уровня",
+        "DateDoc": "21-09-2022 15-43",
+        "URL": "https://www.kommersant.ru/doc/5571705",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571659,
+        "Title": "Минэкономразвития улучшило прогноз развития экономики",
+        "DateDoc": "21-09-2022 14-35",
+        "URL": "https://www.kommersant.ru/doc/5571659",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571628,
+        "Title": "Правительство выделит деньги на частичную мобилизацию",
+        "DateDoc": "21-09-2022 13-36",
+        "URL": "https://www.kommersant.ru/doc/5571628",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Последние новости о военной операции на Украине",
+                "Url": "https://www.kommersant.ru/theme/3423",
+                "Type": 2,
+                "Id": 3423
+            },
+            {
+                "Name": "Частичная мобилизация в России",
+                "Url": "https://www.kommersant.ru/theme/3448",
+                "Type": 2,
+                "Id": 3448
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571570,
+        "Title": "Матвиенко предложила правительству увеличить закупки золота у добытчиков",
+        "DateDoc": "21-09-2022 12-51",
+        "URL": "https://www.kommersant.ru/doc/5571570",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Рынок золота и драгметаллов",
+                "Url": "https://www.kommersant.ru/theme/712",
+                "Type": 2,
+                "Id": 712
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571559,
+        "Title": "Страны Азии обгонят Китай по росту ВВП",
+        "DateDoc": "21-09-2022 12-48",
+        "URL": "https://www.kommersant.ru/doc/5571559",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571551,
+        "Title": "Минэкономразвития прогнозирует спад ВВП России на 2,9% в 2022 году",
+        "DateDoc": "21-09-2022 12-05",
+        "URL": "https://www.kommersant.ru/doc/5571551",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика ВВП России",
+                "Url": "https://www.kommersant.ru/theme/400",
+                "Type": 2,
+                "Id": 400
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571439,
+        "Title": "Минэкономики ожидает спада инвестиций в России в пределах 2%",
+        "DateDoc": "21-09-2022 09-28",
+        "URL": "https://www.kommersant.ru/doc/5571439",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Лаура Кеффер",
+                "Url": "https://www.kommersant.ru/authors/703",
+                "Type": 5,
+                "Id": 703
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571315,
+        "Title": "Строители наполняются оптимизмом",
+        "DateDoc": "21-09-2022 01-33",
+        "URL": "https://www.kommersant.ru/doc/5571315",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Строительная отрасль",
+                "Url": "https://www.kommersant.ru/theme/2640",
+                "Type": 2,
+                "Id": 2640
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №174 от 21.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139287",
+                "Type": 6,
+                "Id": 139287
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571308,
+        "Title": "Субстанциям определят национальность",
+        "DateDoc": "21-09-2022 01-33",
+        "URL": "https://www.kommersant.ru/doc/5571308",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Фармацевтический рынок",
+                "Url": "https://www.kommersant.ru/theme/1151",
+                "Type": 2,
+                "Id": 1151
+            },
+            {
+                "Name": "Анастасия Мануйлова",
+                "Url": "https://www.kommersant.ru/authors/605",
+                "Type": 5,
+                "Id": 605
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №174 от 21.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139287",
+                "Type": 6,
+                "Id": 139287
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571274,
+        "Title": "Отвод от поддержки конкуренции",
+        "DateDoc": "21-09-2022 01-33",
+        "URL": "https://www.kommersant.ru/doc/5571274",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Госзакупки",
+                "Url": "https://www.kommersant.ru/theme/1473",
+                "Type": 2,
+                "Id": 1473
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Эксклюзив",
+                "Url": "https://www.kommersant.ru/rubric/149",
+                "Type": 1,
+                "Id": 149
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №174 от 21.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139287",
+                "Type": 6,
+                "Id": 139287
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571313,
+        "Title": "Гуляем на не последние",
+        "DateDoc": "20-09-2022 23-41",
+        "URL": "https://www.kommersant.ru/doc/5571313",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Дмитрий Бутрин",
+                "Url": "https://www.kommersant.ru/authors/44",
+                "Type": 5,
+                "Id": 44
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №174 от 21.09.2022, стр. 1",
+                "Url": "https://www.kommersant.ru/daily/139287",
+                "Type": 6,
+                "Id": 139287
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571203,
+        "Title": "В августе инфляция снижалась в большинстве регионов",
+        "DateDoc": "20-09-2022 19-13",
+        "URL": "https://www.kommersant.ru/doc/5571203",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571144,
+        "Title": "Россия догоняет Америку столетней давности",
+        "DateDoc": "20-09-2022 17-40",
+        "URL": "https://www.kommersant.ru/doc/5571144",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Мир",
+                "Url": "https://www.kommersant.ru/rubric/5",
+                "Type": 1,
+                "Id": 5
+            },
+            {
+                "Name": "Динамика мировой экономики",
+                "Url": "https://www.kommersant.ru/theme/437",
+                "Type": 2,
+                "Id": 437
+            },
+            {
+                "Name": "Россия в мировых рейтингах",
+                "Url": "https://www.kommersant.ru/theme/399",
+                "Type": 2,
+                "Id": 399
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571114,
+        "Title": "Правительство сверстало бюджет на 2023 год с дефицитом 2,9 трлн рублей",
+        "DateDoc": "20-09-2022 15-48",
+        "URL": "https://www.kommersant.ru/doc/5571114",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5571067,
+        "Title": "Почти 90% британских компаний—участниц эксперимента поддерживают переход на 4-дневную рабочую неделю",
+        "DateDoc": "20-09-2022 14-58",
+        "URL": "https://www.kommersant.ru/doc/5571067",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570944,
+        "Title": "Норвежский суверенный фонд требует нулевых выбросов от компаний, в которые инвестирует",
+        "DateDoc": "20-09-2022 12-32",
+        "URL": "https://www.kommersant.ru/doc/5570944",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Все о Европе",
+                "Url": "https://www.kommersant.ru/theme/3172",
+                "Type": 2,
+                "Id": 3172
+            },
+            {
+                "Name": "Норвегия и ее отношения с Россией",
+                "Url": "https://www.kommersant.ru/theme/2092",
+                "Type": 2,
+                "Id": 2092
+            },
+            {
+                "Name": "Алена Миклашевская",
+                "Url": "https://www.kommersant.ru/authors/331",
+                "Type": 5,
+                "Id": 331
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570909,
+        "Title": "Прокуратура Забайкалья потребовала признать недействительным краевой бюджет из-за отсутствия доплат врачам",
+        "DateDoc": "20-09-2022 11-00",
+        "URL": "https://www.kommersant.ru/doc/5570909",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Общество",
+                "Url": "https://www.kommersant.ru/rubric/7",
+                "Type": 1,
+                "Id": 7
+            },
+            {
+                "Name": "Влад Никифоров",
+                "Url": "https://www.kommersant.ru/authors/922",
+                "Type": 5,
+                "Id": 922
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570740,
+        "Title": "Запасы газа не уберегут Европу от его дефицита",
+        "DateDoc": "20-09-2022 01-10",
+        "URL": "https://www.kommersant.ru/doc/5570740",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бывший СССР",
+                "Url": "https://www.kommersant.ru/theme/3170",
+                "Type": 2,
+                "Id": 3170
+            },
+            {
+                "Name": "Газовые отношения России, Украины и Евросоюза",
+                "Url": "https://www.kommersant.ru/theme/225",
+                "Type": 2,
+                "Id": 225
+            },
+            {
+                "Name": "Газовый рынок",
+                "Url": "https://www.kommersant.ru/theme/1824",
+                "Type": 2,
+                "Id": 1824
+            },
+            {
+                "Name": "Татьяна Едовина",
+                "Url": "https://www.kommersant.ru/authors/603",
+                "Type": 5,
+                "Id": 603
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №173 от 20.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139286",
+                "Type": 6,
+                "Id": 139286
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570738,
+        "Title": "Науку переставляют на проектные рельсы",
+        "DateDoc": "20-09-2022 01-10",
+        "URL": "https://www.kommersant.ru/doc/5570738",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Наука в России",
+                "Url": "https://www.kommersant.ru/theme/415",
+                "Type": 2,
+                "Id": 415
+            },
+            {
+                "Name": "Олег Сапожков",
+                "Url": "https://www.kommersant.ru/authors/326",
+                "Type": 5,
+                "Id": 326
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №173 от 20.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139286",
+                "Type": 6,
+                "Id": 139286
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570614,
+        "Title": "Глава Минэкономики оценил объем ввезенных по параллельному импорту товаров в 1,3 млн тонн",
+        "DateDoc": "19-09-2022 23-22",
+        "URL": "https://www.kommersant.ru/doc/5570614",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Дарья Эрозбек",
+                "Url": "https://www.kommersant.ru/authors/974",
+                "Type": 5,
+                "Id": 974
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570682,
+        "Title": "Обходной маневр у прилавка",
+        "DateDoc": "19-09-2022 23-15",
+        "URL": "https://www.kommersant.ru/doc/5570682",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Импортозамещение",
+                "Url": "https://www.kommersant.ru/theme/2282",
+                "Type": 2,
+                "Id": 2282
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Алексей Шаповалов",
+                "Url": "https://www.kommersant.ru/authors/59",
+                "Type": 5,
+                "Id": 59
+            },
+            {
+                "Name": "Евгения Крючкова",
+                "Url": "https://www.kommersant.ru/authors/553",
+                "Type": 5,
+                "Id": 553
+            },
+            {
+                "Name": "Главное",
+                "Url": "https://www.kommersant.ru/rubric/133",
+                "Type": 1,
+                "Id": 133
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №173 от 20.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139286",
+                "Type": 6,
+                "Id": 139286
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570717,
+        "Title": "Малый бизнес вернулся в январь",
+        "DateDoc": "19-09-2022 22-53",
+        "URL": "https://www.kommersant.ru/doc/5570717",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Динамика экономики РФ",
+                "Url": "https://www.kommersant.ru/theme/149",
+                "Type": 2,
+                "Id": 149
+            },
+            {
+                "Name": "Малый бизнес",
+                "Url": "https://www.kommersant.ru/theme/1165",
+                "Type": 2,
+                "Id": 1165
+            },
+            {
+                "Name": "Статистика",
+                "Url": "https://www.kommersant.ru/theme/3152",
+                "Type": 2,
+                "Id": 3152
+            },
+            {
+                "Name": "Диана Галиева",
+                "Url": "https://www.kommersant.ru/authors/911",
+                "Type": 5,
+                "Id": 911
+            },
+            {
+                "Name": "Газета «Коммерсантъ» №173 от 20.09.2022, стр. 2",
+                "Url": "https://www.kommersant.ru/daily/139286",
+                "Type": 6,
+                "Id": 139286
+            },
+            {
+                "Name": "Архив газеты «Коммерсантъ»",
+                "Url": "https://www.kommersant.ru/daily",
+                "Type": 4,
+                "Id": 1
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570616,
+        "Title": "Центробанки по всему миру резко повышают ставки на фоне рекордной инфляции",
+        "DateDoc": "19-09-2022 18-54",
+        "URL": "https://www.kommersant.ru/doc/5570616",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Материалы сайта",
+                "Url": "https://www.kommersant.ru/",
+                "Type": 4,
+                "Id": 57
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570547,
+        "Title": "Минфин предложил продлить кредитные каникулы до 31 марта 2023 года",
+        "DateDoc": "19-09-2022 16-20",
+        "URL": "https://www.kommersant.ru/doc/5570547",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570486,
+        "Title": "Экологи выступили против присвоения «зеленого» статуса атомной и газовой электрогенерации в ЕС",
+        "DateDoc": "19-09-2022 14-52",
+        "URL": "https://www.kommersant.ru/doc/5570486",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570468,
+        "Title": "FT: нехватка долларов угрожает экономике Нигерии",
+        "DateDoc": "19-09-2022 14-31",
+        "URL": "https://www.kommersant.ru/doc/5570468",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570480,
+        "Title": "Путин: бюджет должен быть устойчивым и сбалансированным",
+        "DateDoc": "19-09-2022 14-23",
+        "URL": "https://www.kommersant.ru/doc/5570480",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Бюджет России",
+                "Url": "https://www.kommersant.ru/theme/70",
+                "Type": 2,
+                "Id": 70
+            },
+            {
+                "Name": "Андрей Сапожников",
+                "Url": "https://www.kommersant.ru/authors/980",
+                "Type": 5,
+                "Id": 980
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    },
+    {
+        "MainTagType": 1,
+        "MainTagId": 3,
+        "MainTagTitle": "Экономика",
+        "DocsId": 5570366,
+        "Title": "ЦБ КНР наращивает валютные интервенции для поддержания ликвидности на рынке",
+        "DateDoc": "19-09-2022 12-37",
+        "URL": "https://www.kommersant.ru/doc/5570366",
+        "Tags": [
+            {
+                "Name": "Экономика",
+                "Url": "https://www.kommersant.ru/rubric/3",
+                "Type": 1,
+                "Id": 3
+            },
+            {
+                "Name": "Евгений Хвостик",
+                "Url": "https://www.kommersant.ru/authors/330",
+                "Type": 5,
+                "Id": 330
+            },
+            {
+                "Name": "Лента новостей\r\n",
+                "Url": "https://www.kommersant.ru/archive/news",
+                "Type": 4,
+                "Id": 86
+            }
+        ]
+    }
+]
